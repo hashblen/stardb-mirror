@@ -22458,7 +22458,11 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false
+    "impossible": false,
+    "set": 43,
+    "related": [
+      4055009
+    ]
   },
   {
     "id": 4055009,
@@ -22472,7 +22476,11 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false
+    "impossible": false,
+    "set": 43,
+    "related": [
+      4055008
+    ]
   },
   {
     "id": 4055010,
@@ -22486,7 +22494,11 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false
+    "impossible": false,
+    "set": 42,
+    "related": [
+      4055011
+    ]
   },
   {
     "id": 4055011,
@@ -22500,7 +22512,11 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false
+    "impossible": false,
+    "set": 42,
+    "related": [
+      4055010
+    ]
   },
   {
     "id": 4055012,
@@ -22514,7 +22530,11 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false
+    "impossible": false,
+    "set": 44,
+    "related": [
+      4055013
+    ]
   },
   {
     "id": 4055013,
@@ -22528,7 +22548,11 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false
+    "impossible": false,
+    "set": 44,
+    "related": [
+      4055012
+    ]
   },
   {
     "id": 4055014,
@@ -22556,7 +22580,11 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false
+    "impossible": false,
+    "set": 45,
+    "related": [
+      4055016
+    ]
   },
   {
     "id": 4055016,
@@ -22570,7 +22598,11 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false
+    "impossible": false,
+    "set": 45,
+    "related": [
+      4055015
+    ]
   },
   {
     "id": 4055017,
@@ -22808,7 +22840,12 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false
+    "impossible": false,
+    "set": 41,
+    "related": [
+      4055036,
+      4055037
+    ]
   },
   {
     "id": 4055036,
@@ -22822,7 +22859,12 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false
+    "impossible": false,
+    "set": 41,
+    "related": [
+      4055035,
+      4055037
+    ]
   },
   {
     "id": 4055037,
@@ -22836,7 +22878,12 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false
+    "impossible": false,
+    "set": 41,
+    "related": [
+      4055035,
+      4055036
+    ]
   },
   {
     "id": 4055044,
