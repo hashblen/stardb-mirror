@@ -7641,6 +7641,7 @@
     "hidden": false,
     "version": "6.1",
     "gacha": false,
+    "timegated": "12 Weeks",
     "missable": false,
     "impossible": false
   },
@@ -7653,7 +7654,9 @@
     "currency": 5,
     "hidden": false,
     "version": "6.3",
+    "comment": "",
     "gacha": false,
+    "timegated": "18 Weeks",
     "missable": false,
     "impossible": false
   },
