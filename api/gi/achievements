@@ -9323,6 +9323,19 @@
     "impossible": false
   },
   {
+    "id": 82307,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Moonwalker",
+    "description": "Destroy the Moonstone Anchor while the Radiant Moongecko is preparing to unleash \"Voidstep Reverberation\" to disrupt its charging.",
+    "currency": 5,
+    "hidden": true,
+    "version": "6.4",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
     "id": 84000,
     "series": 0,
     "series_name": "Wonders of the World",
