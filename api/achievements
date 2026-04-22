@@ -414,10 +414,11 @@
     "description": "Tread on the Path of Elation",
     "currency": 20,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4030101,
@@ -2896,10 +2897,11 @@
     "description": "Isn't there a cooler way to get around?\\n※ Board the train and save the world",
     "currency": 10,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035202,
@@ -2909,10 +2911,11 @@
     "description": "Symbol of the Arbiter's Authority\\n※ Evanescia has reclaimed her ruler blade",
     "currency": 10,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035203,
@@ -2922,10 +2925,11 @@
     "description": "No one cares what you think... until you decide to tear the world apart\\n※ Enter the \"Rift\" within Fulwish's heart",
     "currency": 10,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035204,
@@ -2935,10 +2939,11 @@
     "description": "Either laugh, or die\\n※ Witness the outbreak of the imagenesis plague \"Joy Ascendant\"",
     "currency": 10,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035205,
@@ -2948,10 +2953,11 @@
     "description": "Better to die by at the hands of a Meanie than to be honored by the likes of them\\n※ Though honestly, no one wants to die at the hands of a Meanie",
     "currency": 10,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035206,
@@ -2961,10 +2967,11 @@
     "description": "Those who proclaim death shall themselves be claimed by death\\n※ Defeat the new Herald of Death",
     "currency": 10,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035207,
@@ -2974,10 +2981,11 @@
     "description": "Gone with the blossom on the breeze\\n※ Accept Evanescia's request",
     "currency": 10,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4070101,
@@ -7933,10 +7941,11 @@
     "description": "In a single battle, use Trailblazer (Elation)'s Ultimate on 4 different teammates once each",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075202,
@@ -7946,10 +7955,11 @@
     "description": "In a single battle, use Trailblazer (Elation)'s Ultimate on Sparxie 5 times in total",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075203,
@@ -7959,10 +7969,11 @@
     "description": "In a single battle, the total number of \"Certified Banger\" stacks Evanescia obtains from other teammates via her Talent \"Youth: Halcyon Evermore\" exceeds 500",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075204,
@@ -7972,10 +7983,11 @@
     "description": "Use ally character Evanescia's Ultimate when the number of \"Certified Banger\" stacks reaches 999",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075205,
@@ -7985,10 +7997,11 @@
     "description": "Trigger Silver Wolf LV.999's \"McAwolfee 999\" to dispel the \"Dominance\" state inflicted by Stellaron Hunter, Kafka",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075206,
@@ -7998,10 +8011,11 @@
     "description": "In a single turn, teammates trigger 3 types of Silver Wolf LV.999's \"Top Loot Box\" effects",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075207,
@@ -8011,10 +8025,11 @@
     "description": "Use Silver Wolf LV.999's \"This? Absolute Meta!\" Technique to gain 8 Gold Coins in one go",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075015,
@@ -8024,10 +8039,11 @@
     "description": "Win a battle while deploying 4 Elation characters",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075208,
@@ -8037,10 +8053,11 @@
     "description": "In the battle against \"Paramount Bliss Inverted: Illwish Archlotus,\" an ally character is converted into a \"Happiness Puppet,\" then deals \"Right on Target\" and defeats any target",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075209,
@@ -8050,10 +8067,11 @@
     "description": "In the battle against \"Paramount Bliss Inverted: Illwish Archlotus,\" no characters were converted into Happiness Puppets by triggering \"Happiness\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075210,
@@ -8063,10 +8081,11 @@
     "description": "In the battle against \"Joy Ascendant\", defeat 4 or more \"Joy Ascendant: Finale\" in a single attack",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4020201,
@@ -23590,10 +23609,11 @@
     "description": "Hand over Skott's killer to the Xianzhou Alliance\\n※ Hope the food in Shackling Prison grows on her",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055202,
@@ -23603,10 +23623,11 @@
     "description": "Hand over Skott's killer to the Strategic Investment Department\\n※ As if nothing ever happened",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055203,
@@ -23616,10 +23637,11 @@
     "description": "Bring Skott's killer to justice\\n※ \"If she won't act right, you help her act right.\"",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055204,
@@ -23629,10 +23651,11 @@
     "description": "Complete the investigation of the Buoyant Express Platform",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055205,
@@ -23642,10 +23665,11 @@
     "description": "Investigate the computer in the TV station's storage room",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055206,
@@ -23655,10 +23679,11 @@
     "description": "Reunite with the Cinderborne Warrior at the TV station",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055207,
@@ -23668,10 +23693,11 @@
     "description": "Complete the first meeting dialogue with the Ploo Family",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055208,
@@ -23681,10 +23707,11 @@
     "description": "Listen to a passerby making excuses to avoid meeting the parents",
     "currency": 5,
     "hidden": true,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055212,
@@ -23694,10 +23721,11 @@
     "description": "Look at us! Our furbo family is booming!\\n※ Furbobo Weekly now officially has 9 permanent furbo journalists on staff",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055213,
@@ -23707,10 +23735,11 @@
     "description": "Meet other Trailblazers in the Co-Op Party Car",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055214,
@@ -23720,10 +23749,11 @@
     "description": "Visit 5 other Trailblazers' Co-Op Party Car",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055215,
@@ -23733,10 +23763,11 @@
     "description": "Receive Akivimeow's Gift",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055216,
@@ -23746,10 +23777,11 @@
     "description": "Catch a creation from every hiding spot in the Party Car",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055217,
@@ -23759,10 +23791,11 @@
     "description": "Place 13 identical creations in the Creation Placement Zone",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055218,
@@ -23772,10 +23805,11 @@
     "description": "Collect 27 creations in the Creation Observation Record",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055220,
@@ -23785,10 +23819,11 @@
     "description": "In Cosmicon Collective, collect 6 Prismatic Dice from Expansion Pack II in total",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055221,
@@ -23798,10 +23833,11 @@
     "description": "In \"Cosmicon, Roll On Again!\", swap dice 42 times in total",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055222,
@@ -23811,10 +23847,11 @@
     "description": "In \"Cosmicon, Roll On Again!\", use 3 Tactics Cards consecutively in a single turn",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055223,
@@ -23824,10 +23861,11 @@
     "description": "Deal 30 DMG in a single turn in \"Cosmicon, Roll On Again!\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055224,
@@ -23837,10 +23875,11 @@
     "description": "In \"Cosmicon, Roll On Again!\", represent Furbobo Weekly and defeat the top five on the Seafeld City Commerce Street leaderboard: the \"Seafeld Five\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055225,
@@ -23850,10 +23889,11 @@
     "description": "Complete the final showdown with Silver Wolf LV.999 in \"Cosmicon, Roll On Again!\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4040201,
@@ -28748,10 +28788,11 @@
     "description": "Collect 120 Star Rabbit's Nameless Wispae in total",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045202,
@@ -28761,10 +28802,11 @@
     "description": "Complete \"Jump Time\" on the TV station rooftop and leap from the top all the way down to the interview hall",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045203,
@@ -28774,10 +28816,11 @@
     "description": "Collect all Music Notes during \"Jump Time\" on the TV station rooftop",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045204,
@@ -28787,10 +28830,11 @@
     "description": "Reach the very top of Seafeld TV Tower",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045205,
@@ -28800,10 +28844,11 @@
     "description": "In \"Interplanar Jump!\", stay airborne and touch the Gravity Line 10 times in a row",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045206,
@@ -28813,10 +28858,11 @@
     "description": "In \"Interplanar Jump!\", use a HelpBot to send Hedgehogae or Floatspirit flying",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045207,
@@ -28826,10 +28872,11 @@
     "description": "Complete the Drink-Mixing stage in \"Interplanar Jump!\" at the Seafeld TV Tower",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045208,
@@ -28839,10 +28886,11 @@
     "description": "Reach the residential zone across the sea in \"Interplanar Jump!\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045209,
@@ -28852,10 +28900,11 @@
     "description": "Play music during \"Interplanar Jump!\" to dispel the fog shrouding the mysterious island",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045210,
@@ -28865,10 +28914,11 @@
     "description": "Ride the HelpBot across the water's surface during \"Interplanar Jump!\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045211,
@@ -28878,10 +28928,11 @@
     "description": "Fail the game after being squashed by Waldundun or PiPinTuns in \"Interplanar Jump!\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045212,
@@ -28891,10 +28942,11 @@
     "description": "Be the first to reach the summit of the mysterious island in Seafeld City's \"Interplanar Jump!\" shadow race",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045213,
@@ -28904,10 +28956,11 @@
     "description": "Fire and get hit by your own bow and arrow during \"Interplanar Jump!\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045214,
@@ -28917,10 +28970,11 @@
     "description": "Ride the HelpBot through the spiked obstacles during \"Interplanar Jump!\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045215,
@@ -28930,10 +28984,11 @@
     "description": "Unlock the HelpBot's exclusive ability during \"Interplanar Jump!\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045216,
@@ -28943,10 +28998,11 @@
     "description": "Play a Bizarre Melody to find the mysterious creature hiding in the Seafeld TV Tower",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045217,
@@ -28956,9 +29012,10 @@
     "description": "Play a Bizarre Melody and find the mysterious creature hiding in Seafeld City",
     "currency": 5,
     "hidden": false,
+    "version": "4.2",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   }
 ]
