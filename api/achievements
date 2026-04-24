@@ -23613,7 +23613,12 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false
+    "impossible": false,
+    "set": 48,
+    "related": [
+      4055202,
+      4055203
+    ]
   },
   {
     "id": 4055202,
@@ -23630,7 +23635,8 @@
     "impossible": false,
     "set": 48,
     "related": [
-      4055203
+      4055203,
+      4055201
     ]
   },
   {
@@ -23648,7 +23654,8 @@
     "impossible": false,
     "set": 48,
     "related": [
-      4055202
+      4055202,
+      4055201
     ]
   },
   {
