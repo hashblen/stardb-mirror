@@ -23582,6 +23582,7 @@
     "currency": 5,
     "hidden": false,
     "version": "4.1",
+    "reference": "A common radio communication directive used to order all available personnel or resources to remain ready and wait for further instructions. This is often used by emergency services, military, and police officers.",
     "gacha": false,
     "timegated": null,
     "missable": false,
