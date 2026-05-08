@@ -4051,7 +4051,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is specific to the game, with Surge of Tiles being a term that describes the numerous sets of four identical tiles (which is her Hidden Hand state) Qingque throws at enemies.",
     "difficulty": "medium",
     "video": "https://youtu.be/MM-_7VJwCS4",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -4121,7 +4121,7 @@
     "reference": "The phrase \"over-protective\" generally refers to someone who is excessively concerned about the safety and well-being of others, often to the point of imposing strict or limiting measures that can inhibit independence and growth. This term is commonly applied to parents or guardians, but it can also refer to anyone in a caregiving or authoritative role.",
     "difficulty": "easy",
     "video": "https://youtu.be/G-X5EkkwMV4",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -4139,7 +4139,7 @@
     "reference": "If someone says \"When the National Anthem Rings,\" it's often followed by them telling you to stop what you're doing, stand to attention, and sing along one's national anthem. The Belobog March sounds like what the name of Belobog's anthem would be. Bronya plays it against Gepard, her mother, herself, or when Bronya sees that Seele is about to use her ultimate.",
     "difficulty": "easy",
     "video": "https://youtu.be/gokIYD2FOkQ",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -4611,7 +4611,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is specific to the game, with the phrase \"This Fragile Body\" serving as a reminder of the inherent fragility and transience of our physical existence. It acknowledges that all is weak to Silver Wolf given a high enough Effect Hit %.",
     "difficulty": "easy",
     "video": "https://youtu.be/_Ezyhi8j1L8",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -4683,7 +4683,7 @@
     "reference": "\"BOOM\" is an onomatopoeic word that mimics the sound of an explosion or a loud noise. It's used in various contexts, like BOOM goes the dynamite. It is also a nod to Kafka's Ultimate voiceline: \"Good times never last. Time to say bye. BOOM!\"",
     "difficulty": "easy",
     "video": "https://youtu.be/U10EZcb-6BU",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -4701,7 +4701,7 @@
     "reference": "An \"unfulfilled wish\" refers to a desire, hope, or aspiration that has not been realized or achieved. It can pertain to various aspects of life, including personal goals, relationships, career aspirations, or experiences one hopes to have. \n\nThe Chinese version of the achievement's title, 求不得, roughly translates to not getting what one wants. To put it simply: unattainability. This is most likely a reference to the eight sufferings of life, or the eight sufferings of Buddhism. They are as follow:\n生苦 - Suffering of birth\n老苦 - Suffering of old age\n病苦 - Suffering from illness\n死苦 - Suffering of Death\n愛別離苦 - Suffering of the separation from loved ones\n怨憎會苦 - Suffering of resentment and hate\n求不得苦 - Suffering of not getting what one wants\n五蘊熾盛苦 - Suffering of the flourishing of the Five Skandhas (the skandhas describe the components that make up the human experience and the illusory nature of a self. They are form, feeling, perception, mental formations, and consciousness.)\n\nBlade suffers from the 7th suffering, since he is unable to attain his wish. Blade's Wish is [Spoiler Alert].",
     "difficulty": "medium",
     "video": "https://youtu.be/z-1TphelYM4",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -4718,7 +4718,7 @@
     "comment": "Requires owning Blade; Kafka can be found in Simulated Universe 5.",
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is specific to the game, since Kafka's nickname for Blade is \"Bladie.\"",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -4736,7 +4736,7 @@
     "reference": "\"Win by decision\" is a term commonly used in combat sports, such as boxing, mixed martial arts (MMA), and kickboxing, among others. When a match goes the full scheduled number of rounds without a knockout, technical knockout, submission, or other form of stoppage, the winner is determined by the judges' scores. ",
     "difficulty": "easy",
     "video": "https://youtu.be/DrfnPGA8y1U",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -4754,7 +4754,7 @@
     "reference": "Self-hypnosis refers to a process or set of techniques that individuals use to guide themselves into a state of focused concentration and heightened suggestibility. It's similar to the trance-like state induced by a professional hypnotist, but the individual achieves it on their own. Self-hypnosis can be used for relaxation, stress reduction, and achieving specific goals such as improving self-confidence or breaking a habit.\n\nThe Chinese version (自我暗示) translates to autosuggestion, which is a psychological technique related to the placebo effect. It's the hypnotic or subconscious adoption of a thought or idea that comes from yourself rather than from other people (like [boss] Kafka convincing her [playable] self to deal damage to her allies). Autosuggestion is often used in self-hypnosis.",
     "difficulty": "easy",
     "video": "https://youtu.be/Prl2CEZV9X4",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -4790,7 +4790,7 @@
     "reference": "Wardance: This term often refers to a dance performed either before going into battle or during a battle, intended to intimidate the enemy and boost the morale of one's own troops. Sushang wields a greatsword to challenge Yanqing.",
     "difficulty": "easy",
     "video": "https://youtu.be/wFiaIK0LOCw",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -4808,7 +4808,7 @@
     "reference": "Wardance: This term often refers to a dance performed either before going into battle or during a battle, intended to intimidate the enemy and boost the morale of one's own troops. Luocha wields an Épée (heavy fencing sword) to challenge Yanqing.",
     "difficulty": "medium",
     "video": "https://youtu.be/wFiaIK0LOCw",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -4825,7 +4825,7 @@
     "comment": "Yanqing can be found in the Forgotten Hall Xianzhou Stage 2. Use the regular Dan Heng, not DHIL.",
     "reference": "Wardance: This term often refers to a dance performed either before going into battle or during a battle, intended to intimidate the enemy and boost the morale of one's own troops. Dan Heng wields a spear to challenge Yanqing.",
     "difficulty": "medium",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -4842,7 +4842,7 @@
     "comment": "Requires owning Yanqing. Yanqing can be found in the Forgotten Hall Xianzhou Stage 2.\t",
     "reference": "Wardance: This term often refers to a dance performed either before going into battle or during a battle, intended to intimidate the enemy and boost the morale of one's own troops. There is a series of achievements named \"Wardance: [weapon] Trial\" in which you have to defeat Yanqing with various different characters. This achievement requires you to defeat Yanqing with Yanqing, so instead of a weapon name it suggests confusion at the fact he is apparently defeating himself.",
     "difficulty": "medium",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -4859,7 +4859,7 @@
     "comment": "Requires owning Jingliu. Yanqing can be found in the Forgotten Hall Xianzhou Stage 2.\t",
     "reference": "Wardance: This term often refers to a dance performed either before going into battle or during a battle, intended to intimidate the enemy and boost the morale of one's own troops. Jingliu does not wield an ordinary iron sword, but a condensed shaft of sharp ice. Since her elemental power is ice, perhaps Soulsteel alludes to her blade coming from her soul.",
     "difficulty": "medium",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -4928,7 +4928,7 @@
     "reference": "Wardance: This term often refers to a dance performed either before going into battle or during a battle, intended to intimidate the enemy and boost the morale of one's own troops. Jing Yuan wields a Glaive (polearm consisting of a single-edged blade) to whoop Yanqing.",
     "difficulty": "medium",
     "video": "https://youtu.be/wFiaIK0LOCw",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -4999,7 +4999,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is specific to the game. The achievement cleverly plays on the line \"Of five people, three must pay the price,\" frequently mentioned by Blade and Jingliu. Given a humorous spin, the achievement necessitates your Jingliu to bring an ally's HP down to just 1. Considering you can have a maximum of four characters in your party, it amusingly suggests: \"Of four teammates, one must pay the price (to unlock the achievement).\" It's a witty reinterpretation of the original line. - Credit: Fen",
     "difficulty": "easy",
     "video": "https://youtu.be/6Z3k2oXcQdM",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5149,7 +5149,7 @@
     "version": "1.6",
     "reference": "The Chinese version, 冥狱无常, which roughly translates to \"Hell is impermanent,\" could be a reference to the impernance of realms of the universe in Buddhism. The great tragedy of existence, from a Buddhist point of view, is both endless and subject to impermanence, suffering, and uncertainty. These realms (Heaven, the realm of humanity, the realm of the Titans, the realm of the hungry ghosts, the animal realm, and Hell realms) are impermanent because no state, good or bad, lasts forever.",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5167,7 +5167,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is specific to the game. The title is merely a nod to achieving the chive using Huohuo's technique, needing to make enemies alert to come closer to her then using the technique to terrorize those enemies, making them go away.",
     "difficulty": "medium",
     "video": "https://youtu.be/wezSdlBesJU",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5184,7 +5184,7 @@
     "reference": "Let her/him/them cook is a slang that means to let someone do something they’re good at. In this chive’s case, let Hanya yap all she wants.\n\nThe Chinese version, 聆听是最好的陪伴, which roughly translates to \"listening is the best form of companionship.\" It more or less talks about the value of listening in relationships and emotional connections. Truly listening to someone, giving them your full attention and understanding, is one of the most meaningful ways to offer companionship and support (to Hanya).",
     "difficulty": "easy",
     "video": "https://youtu.be/yCvyLn5EqAg",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5201,7 +5201,7 @@
     "reference": "A statement used at the start of a piece of writing, video, censored picture, etc., alerting the reader or viewer to the fact that it may contain distressing materials in the eyes of the reader or viewer. It is often used to introduce a description of such content.\n\nThe Chinese version (舌战群儒; roughly translating to \"a battle of tongues with scholars\") is an idiom that refers to a fierce debate. It originates from the 43rd chapter of the Ming Dynasty novel 三国演义 (Romance of the Three Kingdoms): 诸葛亮舌战群儒，鲁子敬力排众议。This roughly translates to \"Zhuge Liang's battle of tongues with scholars, Lu Zijing's strong argument against many opinions.\" The story describes how Zhuge Liang faces criticism from counselors and ultimately refutes them all, leaving them speechless",
     "difficulty": "easy",
     "video": "https://youtu.be/iWf_DezR8Q4",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5217,7 +5217,7 @@
     "version": "1.6",
     "reference": "The Chinese name 毁人不倦 (\"breaking people tirelessly\") is derived from the idiom 诲人不倦 (\"teaching people tirelessly\"), which couldn't be more apt because Dr. Ratio does both at the same time. - Credit: Necrosyrtes",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5234,7 +5234,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is specific to the game. Good Night Kitchen could mean to \"shut down\" or \"close\" a kitchen, which consists of Beyond Overcooked and its allies.",
     "difficulty": "hard",
     "video": "https://youtu.be/W4rOU-_GbOE",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5286,7 +5286,7 @@
     "reference": "Both the English and Chinese title (万般皆注定, which also translates to \"all is predestined\" or \"all is doomed\") is probably a reference to the Chinese proverb from the \"Words of Warning to the World\" (警世通言): \n\n“和尚们晓得是马公子马相公，无不钦敬。其年正是三十二岁，交逢好运，正应张铁口先生推算之语。可见：万般皆是命，半点不由人。”\n\nThis roughly translates to: \"The monks knew it was Young Master Ma, the esteemed Mr. Ma, and all held him in high regard. That year, he was precisely thirty-two years old, encountering good fortune, just as Mr. Zhang had predicted. It is evident: everything is predestined, it is not up to humans at all.\"",
     "difficulty": "medium",
     "video": "https://youtu.be/a9NcWIinsLE",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5303,7 +5303,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is specific to the game. The chive's title is a nod to Misha's voiceline when he unleashes his ultimate: \"Not again! I'm running late, ahhh...! Sorry...\"",
     "difficulty": "medium",
     "video": "https://youtu.be/H6VASCCTCSM",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5320,7 +5320,7 @@
     "reference": "A reference to the song \"Uchiage Hanabi\" (lit. \"Launching Fireworks\" / official English \"Fireworks\") by Daoko featuring Kenshi Yonezu. It was used as a theme song for the 2017 anime film \"Fireworks, Should We See It from the Side or the Bottom?\" - Credit: Necrosyrtes",
     "difficulty": "easy",
     "video": "https://youtu.be/ciatGjXX5qE",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5439,7 +5439,7 @@
     "version": "2.1",
     "reference": "Lady Snowblood (1972-1973) is a manga series written by Kazuo Koike and illustrated by Kazuo Kamimura, featuring the eponymous assassin who is a beautiful woman with formidable skills in using a blade hidden in her umbrella. The title in Japanese (Shurayuki-hime) is a pun on Snow White (Shirayuki-hime) and Ashura, the mythological race of demon/god in Hinduism and Buddhism, known for their thirst for battle and carnage. All those traits simply fit Acheron to a T. - Credit: Necrosyrtes",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5456,7 +5456,7 @@
     "reference": "In poker game, \"blind steal\" is a raise from a late position with a weak hand when all other players have folded, with the intention of winning the blinds. - Credit: Necrosyrtes",
     "difficulty": "easy",
     "video": "https://youtu.be/Qt0zAFywvsE",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5508,7 +5508,7 @@
     "reference": "A performance evaluation is a process used by organizations to give employees feedback on their job performance and formally document that performance.",
     "difficulty": "medium",
     "video": "https://youtu.be/pvG2Hzm-Zis",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5525,7 +5525,7 @@
     "comment": "This achievement requires you to chain 5 kills in a row using Acherons technique. The game counts two consecutive kills as a chain as long as Acheron does not leave the greyscale effect that occurs when you use her technique. Find a location with 5 enemies and begin mashing your technique button, ensuring that you do not stop in order to keep her within the greyscale state until all 5 enemies are defeated.",
     "difficulty": "easy",
     "video": "https://youtu.be/Rd1N7kZ-uEE",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5645,7 +5645,7 @@
     "reference": "The Chinese title (一首歌的时间) is probably a reference to 给我一首歌的时间 (roughly translates to \"Give Me Time for a Song\"), sung by Jay Chou. It sort of fits the chive's conditions, giving Robin one's time listening to her sing while she ults.",
     "difficulty": "easy",
     "video": "https://youtu.be/dHRnJcgALC4",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5662,7 +5662,7 @@
     "reference": "A reference to the folklore of the same name. The Pied Piper of Hamelin tells the story of the Pied Piper, who is hired by the town of Hamelin to deal with the rat infestation. The Pied Piper uses music to lead the rats away. The town refuses to pay him for his service, so he uses his music to lure away the town's children who are never seen again. Another interpretation has the children be lured away by a pagan or a heretic to forests near Coppenbrügge for ritual dancing, where they all perish due to a sinkhole or a landslide.",
     "difficulty": "medium",
     "video": "https://youtu.be/YbMRHoXnhhs",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5679,7 +5679,7 @@
     "reference": "The Chinese version, 舞力全开！, which translates to Just Dance!, is a reference to the 2009 music rhythm game of the same name, developed by Ubisoft Paris.",
     "difficulty": "easy",
     "video": "https://youtu.be/dUwCjlNMtSE",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5696,7 +5696,7 @@
     "reference": "\"Russian Roulette\" is a term that refers to a lethal game of chance where participants place a single round in a revolver, spin the cylinder, point the gun at their own head, and pull the trigger. The game is highly dangerous and potentially fatal, as the outcome is entirely unpredictable. ",
     "difficulty": "easy",
     "video": "https://youtu.be/OGa6d2kuHcw",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5747,7 +5747,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. The characters to obtain this chive are all under the IPC, with the Stonehearts being directly under Diamond's leadership and with Dr. Ratio being a member of the Intelligentsia Guild, a faction heavily sponsored by the IPC. They all played a part in Penacony now becoming an asset of the IPC.",
     "difficulty": "easy",
     "video": "https://youtu.be/77l0xOA6y5E",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5763,7 +5763,7 @@
     "version": "2.3",
     "reference": "\"Save the Cat!\" is a well-known term in storytelling and screenwriting, popularized by Blake Snyder in his book \"Save the Cat! The Last Book on Screenwriting You'll Ever Need.\" It refers to a specific moment early in a story where the protagonist does something kind or heroic, such as saving a cat, to win the audience's sympathy and establish the character as likable and worth rooting for. The HSR community has theorized the black cat in Kafka's splash art and Myriad Celestia trailer, among other things, to be Elio, the leader of the Stellaron Hunters.",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5779,7 +5779,7 @@
     "version": "2.3",
     "difficulty": "easy",
     "video": "https://youtu.be/77l0xOA6y5E",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5795,7 +5795,7 @@
     "version": "2.3",
     "reference": "This achievement is a reference to an old achievement from Version 1.2, \"Go, Bladie,\" but she hypnotizes SAM instead of Blade.",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5812,7 +5812,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. The title is Firefly's first Complete Combustion skill voiceline.",
     "difficulty": "easy",
     "video": "https://youtu.be/Ut9HLflb2Ww",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5827,7 +5827,7 @@
     "hidden": true,
     "version": "2.3",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5843,7 +5843,7 @@
     "version": "2.4",
     "difficulty": "easy",
     "video": "https://youtu.be/5kVYQx2cCrI",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5860,7 +5860,7 @@
     "reference": "The Chinese title, 忽冷忽热, which roughly translates to hot and cold. The phrase means being calm at one moment and emotional at another. It comes from 读书杂谈, from an excerpt that translates to: \"Research requires reason and calmness, while creation requires emotion, or at least some passion. So I get hot and cold and feel dizzy.\"",
     "difficulty": "easy",
     "video": "https://youtu.be/jxhu01dv0sM",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5927,7 +5927,7 @@
     "version": "2.4",
     "reference": "Trivia night is a promotional event held some place where guests, family members, friends, coworkers, etc. form teams and compete with each other for prizes.",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5942,7 +5942,7 @@
     "hidden": false,
     "version": "2.4",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -5958,7 +5958,7 @@
     "version": "2.4",
     "reference": "Misandao is a fried cake glazed in malt sugar and is a traditional dish of Xuzhou cuisine.",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -6006,7 +6006,7 @@
     "reference": "Wardance: This term often refers to a dance performed either before going into battle or during a battle, intended to intimidate the enemy and boost the morale of one's own troops. Feixiao wields multiple weapons, or in other words, an armament.",
     "difficulty": "easy",
     "video": "https://youtu.be/Ne2DrdcBd0c",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -6022,7 +6022,7 @@
     "version": "2.5",
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. Verdantia, also known as the Old Verdant Home and the Planet of Verdant, is the original home planet of the foxians and the borisins.",
     "difficulty": "medium",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -6038,7 +6038,7 @@
     "version": "2.5",
     "reference": "Diametrically opposed is a phrase used to emphasize that two things are completely different from one another. The Chinese version is roughly the same as the English saying, tit for tat, which means equivalent retaliation in terms of words and actions, making them on par with each other.",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -6087,7 +6087,7 @@
     "version": "2.5",
     "difficulty": "medium",
     "video": "https://youtu.be/3KkrEMsmxNU",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -6104,7 +6104,7 @@
     "reference": "Marshmallows shaped like rabbits. Or is it rabbits shaped like marshmallows?",
     "difficulty": "easy",
     "video": "https://youtu.be/jFksSvr16C4",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -6121,7 +6121,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. Failing to trigger Moze's follow-up is what the chive's title is referring to.",
     "difficulty": "easy",
     "video": "https://youtu.be/tUM5Fk5F7JA",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -6138,7 +6138,7 @@
     "reference": "Probably a reference to the song Bury the Light, Vergil's battle theme from Devil May Cry. The chorus' starting line is \"I am the storm that is approaching\".",
     "difficulty": "easy",
     "video": "https://youtu.be/_KsHqS3NnqU",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -6250,7 +6250,7 @@
     "hidden": true,
     "version": "2.7",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -6508,7 +6508,7 @@
     "version": "3.0",
     "reference": "A proxy war is a conflict fought by one or more major powers that are not directly involved, fighting and orchestrating battles through surrogate or third-party forces.",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -6780,7 +6780,7 @@
     "version": "3.2",
     "difficulty": "medium",
     "video": "https://youtu.be/EfQ4ODGmu64",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -7016,7 +7016,7 @@
     "currency": 5,
     "hidden": true,
     "version": "3.4",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false,
@@ -7035,7 +7035,7 @@
     "currency": 5,
     "hidden": true,
     "version": "3.4",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false,
@@ -7054,7 +7054,7 @@
     "currency": 5,
     "hidden": true,
     "version": "3.4",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false,
@@ -7199,7 +7199,7 @@
     "currency": 5,
     "hidden": true,
     "version": "3.5",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false,
@@ -7217,7 +7217,7 @@
     "currency": 5,
     "hidden": true,
     "version": "3.5",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false,
@@ -7691,7 +7691,7 @@
     "currency": 5,
     "hidden": true,
     "version": "4.0",
-    "gacha": false,
+    "gacha": true,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -8028,7 +8028,7 @@
     "currency": 5,
     "hidden": true,
     "version": "4.2",
-    "gacha": false,
+    "gacha": true,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -8101,7 +8101,7 @@
     "comment": "As of the free Yukong V1.1 update, you can obtain 10 characters for free without summoning.",
     "reference": "\"The Express Passenger's Guide to the Galaxy\" is a playful and creative twist on the title of the popular science fiction novel \"The Hitchhiker's Guide to the Galaxy\" by Douglas Adams. The original book follows the misadventures of an ordinary human named Arthur Dent as he is whisked away on a series of intergalactic journeys after the Earth is unexpectedly destroyed.",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -8288,7 +8288,7 @@
     "comment": "Characters you obtain from summoning can send you daily text messages. Each new daily text message count towards this achievement.",
     "reference": "The Chinese version is a reference to a certain icon (of the same name?) in Tencent QQ, an instant messaging software service and web portal developed by the Chinese technology company Tencent. 畅聊之火 (which literally translates to chatting fire) is an icon of a small spark given to users who have exchanged messages with friends for more than 7 consecutive days.",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": "Yes",
     "missable": false,
     "impossible": false
@@ -11263,7 +11263,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. In the context of a person, a Versatile Joker may possess a diverse skill set, allowing them to excel in different areas or take on various roles as needed. They may be adept at humor, wit, or entertaining others, possessing the ability to make people laugh or brighten their mood. Additionally, they may have a talent for adapting to different social environments and interacting with people from different backgrounds. AKA Sampo.",
     "difficulty": "easy",
     "video": "https://youtu.be/HShE62wJTUo",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11298,7 +11298,7 @@
     "reference": "\"One Big Happy Family\" is an expression that typically refers to a group of people who share a close and harmonious relationship, treating each other with love, respect, and support. You, the Trailblazer, are not a part of this happy family.",
     "difficulty": "easy",
     "video": "https://youtu.be/WwBKMRAGdDg",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11334,7 +11334,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. The Architects are worshippers of the Aeon of Preservation, Qlipoth. Their leader is the Supreme Guardian of Jarilo-VI. The Architects built Belobog to protect its people from the Eternal Freeze. Without spoiling anything, Bronya, Gepard, Pela and Serval are all residents of Jarilo-VI and are current or former members of the Architects.",
     "difficulty": "easy",
     "video": "https://youtu.be/WMPPrFsLwi0",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11458,7 +11458,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. Qlipoth is the Aeon of Preservation and is composed of some unknown rock and amber, hence THEY are called as the Amber Lord by THEIR followers. One of Qlipoth's followers is the Interastral Peace Corporation. Despite the IPC going against the desires of the Aeon by facilitating trade and cantact between civilizations, all the credits and materials they obtain are, according to their motto, \"All for the Amber Lord.\"",
     "difficulty": "easy",
     "video": "https://youtu.be/KYZsO8_d1q4",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11476,7 +11476,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. Ablution is the ceremonial act of washing the body, while dictum is a formal statement from an authoritative source or that expresses a general truth or principle. Nanook, just before THEY ascended, sees the creation of the universe as a mistake and seeks to destroy everything. The chive's title is a nod to the Destruction's principles, to cleanse the universe of anything and everything.",
     "difficulty": "easy",
     "video": "https://youtu.be/2QRSXL5hwos",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11494,7 +11494,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. A faction of Honkai Star Rail following the Aeon Lan, and it's path, the Hunt. - Credit: rzd",
     "difficulty": "easy",
     "video": "https://youtu.be/v6031SO5Ls8",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11512,7 +11512,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. Nihilism is a philosophical belief that all values are baseless and that nothing can be known or communicated. It is often associated with extreme pessimism and a radical skepticism that condemns existence. A true nihilist would believe in nothing, have no loyalties, and no purpose other than, perhaps, an impulse to destroy or farm chives.",
     "difficulty": "easy",
     "video": "https://youtu.be/7CFkW0sfG6s",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11530,7 +11530,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. Accord  is an agreement or conformity, whether it be of concepts and factsor between groups and nations. A principle befitting the Path of Harmony.",
     "difficulty": "easy",
     "video": "https://youtu.be/mbi9taHmpYQ",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11566,7 +11566,7 @@
     "reference": "Might be a reference to the miracles of God in the book of Acts that portrayed sudden deaths or miraculous healing. Yaoshi is the Aeon of Abundance, technically a god in the Star Rail universe. - Credit: spAceLynn",
     "difficulty": "easy",
     "video": "https://youtu.be/KYZsO8_d1q4",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11584,7 +11584,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. \"Tempest,\" signifying a fierce and tumultuous storm, presents a formidable challenge to suppress. However, by strategically assembling a team of four wind-type characters, you have adeptly mastered the art of reigning in this metaphorical tempestuous power. Lol!",
     "difficulty": "easy",
     "video": "https://youtu.be/c0YPO7J2d5Y",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11601,7 +11601,7 @@
     "comment": "You can borrow a relevant unit from a friend for this achievement. You can run Difficulty 1 in Echo of War without spending stamina (after your 3 weekly runs). You can also run Forgotten Hall 1.",
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. Fulguration, which denotes the removal of undesirable tissue using an electric current, becomes particularly apt when applied to a game scenario where a team solely based on lightning seeks victory. Coupled with the term \"Beckoner,\" which implies an invitation or gesture for participation, the achievement suggests a sly invitation to enemies to partake in their own 'electrification'—essentially being defeated by the lightning team. It's a playful and smart incorporation of terminology into the game dynamics. - Credit: Fen",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11635,7 +11635,7 @@
     "comment": "You can borrow a relevant unit from a friend for this achievement. You can run Difficulty 1 in Echo of War without spending stamina (after your 3 weekly runs). You can also run Forgotten Hall 1.",
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. A \"Dynast\" refers to a ruler or member of a ruling family. Paired with the word \"Glacier,\" it describes rulers in a fictional world who is associated with ice or cold environments.",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11653,7 +11653,7 @@
     "reference": "Probably a reference to measurement in quantum mechanics. It is the testing and manipulation of a physical system to yield a numerical result. It will have an impact on the measured subsystem, such as changing the state of the subsystem. Quantum systems in the same state yield completely different results after being measured. In short, measurement is the core of interpretation systems in quantum mechanics. I guess you could say how using certain and different quantum characters can help determine the outcome of a battle (mono quantum for the win!).",
     "difficulty": "easy",
     "video": "https://youtu.be/KYZsO8_d1q4",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11671,7 +11671,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. Imaginary is one of the elements in Star Rail, while law regulates action or defines correct procedures, so combining both entails that you'd have to follow the chive's requirement to get it.",
     "difficulty": "easy",
     "video": "https://youtu.be/NL9Rd4ftKr4",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11688,7 +11688,7 @@
     "comment": "You can borrow a relevant unit from a friend for this achievement. You can run Difficulty 1 in Echo of War without spending stamina (after your 3 weekly runs). You can also run Forgotten Hall 1.",
     "reference": "Though it is similar to sentences one would use to provoke someone to a fight, it shares a name word for word with Suikoden V's unite attack between Shoon and Nikea. - Credit: rzd",
     "difficulty": "easy",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11706,7 +11706,7 @@
     "reference": "This achievement has no cultural references in the English and Chinese versions. It is likely specific to the game. Life in All Its Forms would refer to different variations of life (species). Relating it to the achievement's condition, Luocha's healing doesn't discriminate, whether the target is a long-life species, short-life species, Foxian, Vidyadhara, etc.",
     "difficulty": "easy",
     "video": "https://youtu.be/ZB3duwGYZ2c",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11724,7 +11724,7 @@
     "reference": "\"Star Saga of the Shattered Sword\" is a visual novel in the game Honkai Impact 3rd. Luocha (Otto Apocalypse), Sushang (Li Sushang), and Yanqing (Ma Feima) all appear in the visual novel.",
     "difficulty": "easy",
     "video": "https://youtu.be/iGpkcNEk6bM",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11742,7 +11742,7 @@
     "reference": "Probably a reference to Guardians of the Galaxy, but instead of the galaxy, it is the Underworld, the underground area in Belobog that is monitored and defended by Wildfire, a peacekeeping faction that Natasha, Seele, and Luka belong to.\n\nIf we tie it to Greek mythology, the Guardian of the Underworld is Cerberus, a watchdog with three heads, wherein each head could be tied to the three characters needed for this chive.",
     "difficulty": "easy",
     "video": "https://youtu.be/UsCnmEY7B-M",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11904,7 +11904,7 @@
     "reference": "\"In the Name of [insert name]\" is a phrase commonly used as an action, declaration, or statement that is made on behalf of, for the sake of, or under the authority of someone. The achievement's title is also the title of Gepard's trailer.",
     "difficulty": "easy",
     "video": "https://youtu.be/CsrSLb86NU8",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11922,7 +11922,7 @@
     "reference": "A reference to The Racket radio program, formerly known as 3 Hours of Power and Full Metal Racket, which is a heavy metal radio show. The radio show and achievement's name is an allusion to \"Full Metal Jacket,\" a 1987 war film directed by Stanley Kubrick. \"Full Metal Jacket\" is known for its gritty portrayal of the Vietnam War and the U.S. Marine Corps. The film has been highly influential and is often cited in discussions about war and cinema. Do you think Natasha listens to heavy metal?",
     "difficulty": "easy",
     "video": "https://youtu.be/r1dV2W64UGM",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -11958,7 +11958,7 @@
     "reference": "The Chinese version is probably a reference to the song, Bedroom Warfare (the chive and song have the same Chinese title), by ONE OK ROCK.",
     "difficulty": "easy",
     "video": "https://youtu.be/jFniFkXLLys",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -12100,7 +12100,7 @@
     "reference": "References the Mission: Impossible films. Is it actually an impossible mission to defeat Phantylia with Huohuo? No, it is not.",
     "difficulty": "easy",
     "video": "https://youtu.be/LNsrsxmaQSo",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -12134,7 +12134,7 @@
     "reference": "References the song Ghostbusters by Ray Parker Jr., which is the theme song for the Ghostbusters franchise. The song quotes, \"Who ya gonna call? Ghostbusters!\" Fitting for the Xianzhou Luofu's trusted heliobi hunting squad.",
     "difficulty": "easy",
     "video": "https://youtu.be/Z3U2KKKAeuQ",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -12151,7 +12151,7 @@
     "reference": "Reference to the manga series \"The Full-Time Wife Escapist,\" which has the original title taken from a Hungarian proverb: szégyen a futás, de hasznos (lit. Running away is shameful, but useful). - Credit: Necrosyrtes",
     "difficulty": "medium",
     "video": "https://youtu.be/l-eW44xO6z8",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -12168,7 +12168,7 @@
     "reference": "A reference to Marvel’s Guardians of the Galaxy. Since Meta in games means “most effective tactics available,” the chive implies that Trailblazer and Argenti together would be the most efficient pair in guarding the galaxy.",
     "difficulty": "easy",
     "video": "https://youtu.be/kTBLI1T3HDQ",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -12186,7 +12186,7 @@
     "reference": "Reference to the title of Episode 26 of the anime series Neon Genesis Evangelion: \"The Beast that Shouted [AI] at the Heart of the World.\" The word [AI] has double meanings: it can be read as \"I\" in English or \"愛\" (love) in Japanese. This title itself is a reference to the 1968 sci-fi short story \"The Beast that Shouted Love at the Heart of the World\" by Harlan Ellison. - Credit: Necrosyrtes",
     "difficulty": "easy",
     "video": "https://youtu.be/5kdJkqvYfHQ",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -12406,7 +12406,7 @@
     "reference": "\"Going Dutch\" is an idiom commonly used to describe a situation where each person pays for their own expenses, such as a meal or entertainment. This practice is often employed to ensure fairness and equality among participants, avoiding the expectation that one person will cover the costs for everyone.",
     "difficulty": "medium",
     "video": "https://youtu.be/-H6iOCckY_A",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -12480,7 +12480,7 @@
     "version": "2.5",
     "difficulty": "easy",
     "video": "https://youtu.be/9Aq_-RqOitk",
-    "gacha": true,
+    "gacha": false,
     "timegated": null,
     "missable": false,
     "impossible": false
@@ -22189,7 +22189,7 @@
     "currency": 5,
     "hidden": true,
     "version": "3.5",
-    "gacha": false,
+    "gacha": true,
     "timegated": null,
     "missable": false,
     "impossible": false
