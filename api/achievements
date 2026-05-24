@@ -8028,6 +8028,7 @@
     "currency": 5,
     "hidden": true,
     "version": "4.2",
+    "reference": "A reference to the biographical film, “The Wolf of Wall Street.”",
     "gacha": true,
     "timegated": null,
     "missable": false,
