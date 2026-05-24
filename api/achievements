@@ -23812,6 +23812,7 @@
     "currency": 5,
     "hidden": false,
     "version": "4.2",
+    "reference": "A reference to the mural of the same name by Leonardo da Vinci. (Both the achievement and the mural have the same Chinese name)",
     "gacha": false,
     "timegated": null,
     "missable": false,
