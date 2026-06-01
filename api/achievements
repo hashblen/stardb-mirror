@@ -2996,10 +2996,11 @@
     "description": "Deduction comes after the clink\\n※ Head to the tavern to investigate clues about Asat Pramad",
     "currency": 10,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035302,
@@ -3009,10 +3010,11 @@
     "description": "Come out for a snowball fight!\\n※ Summon Graphia using the method from a promise made long ago",
     "currency": 10,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035303,
@@ -3022,10 +3024,11 @@
     "description": "Jump down, and melt into that blue hole\\n※ Witness Blade's journey to the end of the World in Canvas",
     "currency": 10,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035304,
@@ -3035,10 +3038,11 @@
     "description": "What makes a blade? What grinds itself to dust, tears enemies asunder?\\n※ Blade has found his answer",
     "currency": 10,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035305,
@@ -3048,10 +3052,11 @@
     "description": "Nothing kills a joke quite like explaining it\\n※ Bear witness to Asat Pramad's revelation of his true identity",
     "currency": 10,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4070101,
@@ -8164,10 +8169,11 @@
     "description": "When winning the battle, Mortenax Blade's remaining HP is 1.",
     "currency": 5,
     "hidden": true,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075302,
@@ -8177,10 +8183,11 @@
     "description": "In a single turn, use ally character Mortenax Blade to trigger \"A Rain of Blades Seals Fate\" a total of 4 time(s)",
     "currency": 5,
     "hidden": true,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075305,
@@ -8190,10 +8197,11 @@
     "description": "Have ally character Mortenax Blade use \"Tenax Per Ignem\" 6 time(s) during a single activation of the \"Infinite Fury\" state",
     "currency": 5,
     "hidden": true,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075303,
@@ -8203,10 +8211,11 @@
     "description": "During combat with Murata Graphia, Founding Artist, select \"Extinguish Flames\" when your HP is low and the success rate for extinguishing is at its lowest, then successfully dispel the \"Grudge Ablaze\" state",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075304,
@@ -8216,10 +8225,11 @@
     "description": "In combat against God-Devourer Offspring, use ally character with the highest ATK to dispel the \"Devour\" state and gain bonus ATK",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4020201,
@@ -12895,10 +12905,11 @@
     "description": "Frozen in an ice block during \"Interplanar Jump!\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4051001,
@@ -24069,10 +24080,11 @@
     "description": "Ask Nihilux about the story of Phantasmoon New Game",
     "currency": 5,
     "hidden": true,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055302,
@@ -24082,10 +24094,11 @@
     "description": "Support the continued development of Star Rabbit",
     "currency": 5,
     "hidden": true,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055303,
@@ -24095,10 +24108,11 @@
     "description": "Oppose the continued development of Star Rabbit",
     "currency": 5,
     "hidden": true,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055304,
@@ -24108,10 +24122,11 @@
     "description": "Summon \"Graphia\" within the magic circle at Inkford Hermitage",
     "currency": 5,
     "hidden": true,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055305,
@@ -24121,10 +24136,11 @@
     "description": "Encounter and speak with Umbralle in both Dovebrook District and Inkford Hermitage, once in each location",
     "currency": 5,
     "hidden": true,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055306,
@@ -24134,10 +24150,11 @@
     "description": "Witness two passersby bidding a fond farewell in front of the station",
     "currency": 5,
     "hidden": true,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055307,
@@ -24147,10 +24164,11 @@
     "description": "In \"Pixel Plane Rumble,\" upgrade a core equipment to 3-star for the first time",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055308,
@@ -24160,10 +24178,11 @@
     "description": "In \"Pixel Plane Rumble,\" defeat Sparxie using \"Track Magic\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055309,
@@ -24173,10 +24192,11 @@
     "description": "Unlock all pixel planes in \"Pixel Plane Rumble\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055310,
@@ -24186,10 +24206,11 @@
     "description": "In \"Pixel Plane Rumble,\" win the Ultimate Showdown without losing a single life",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055311,
@@ -24199,10 +24220,11 @@
     "description": "In \"Pixel Plane Rumble,\" possess 7 3-star equipment simultaneously in a single run",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055312,
@@ -24212,10 +24234,11 @@
     "description": "In \"Pixel Plane Rumble,\" win a match with every plane",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4040201,
@@ -29352,10 +29375,11 @@
     "description": "Complete the \"Jump Time\" at Inkford Hermitage",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045302,
@@ -29365,10 +29389,11 @@
     "description": "Complete the \"Jump Time\" at Inkford Hermitage without being hit by any Hedgehogae",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045303,
@@ -29378,10 +29403,11 @@
     "description": "Knock out Casper",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045304,
@@ -29391,10 +29417,11 @@
     "description": "Find the hidden chest in the castle while having a snowball fight with Casper during \"Interplanar Jump!\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045305,
@@ -29404,10 +29431,11 @@
     "description": "Soak in the snowside hot springs at Inkford Hermitage",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045306,
@@ -29417,10 +29445,11 @@
     "description": "Kick off the heads of all \"Unremarkable Snowmen\" in Inkford Hermitage",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045307,
@@ -29430,9 +29459,10 @@
     "description": "Play a Bizarre Melody and find the mysterious creature hiding in Inkford Hermitage",
     "currency": 5,
     "hidden": false,
+    "version": "4.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   }
 ]
