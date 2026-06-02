@@ -24098,7 +24098,11 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false
+    "impossible": false,
+    "set": 49,
+    "related": [
+      4055303
+    ]
   },
   {
     "id": 4055303,
@@ -24112,7 +24116,11 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false
+    "impossible": false,
+    "set": 49,
+    "related": [
+      4055302
+    ]
   },
   {
     "id": 4055304,
