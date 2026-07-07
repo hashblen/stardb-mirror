@@ -97,19 +97,35 @@ Copy-Item -LiteralPath $cache_path -Destination $temp_path -Force
 $cache_data = Get-Content -Encoding UTF8 -Raw $temp_path
 Remove-Item -Path $temp_path
 $cache_lines = $cache_data -split "1/0/"
-foreach ($line in $cache_lines) {
-    if ($line.StartsWith("https://") -and $line.Contains("getGachaLog")) {
-        $url = ($line -split "&end_id=")[0] + "&end_id=0"
 
-        $res = Invoke-WebRequest -Uri $url -ContentType "application/json" -UseBasicParsing | ConvertFrom-Json
+$urls = foreach ($line in $cache_lines) {
+    if ($line.StartsWith("http") -and $line.Contains("getGachaLog")) {
+        $url = [regex]::Match(
+            $line,
+            'https?://[^\x00-\x20\x7F-\xFF]+'
+        ).Value
 
-        if ($res.retcode -eq 0) {
-            Write-Output "Signal Url found!"
-            Set-Clipboard -Value $url
-            Write-Output "Signal Url has been saved to clipboard."
-
-            return
+        if ($url -match 'timestamp=(\d+)') {
+            [PSCustomObject]@{
+                Url       = ($url -split "&end_id=")[0] + "&end_id=0"
+                Timestamp = [int64]$Matches[1]
+            }
         }
+    }
+}
+
+$urls = $urls | Sort-Object Timestamp -Descending
+
+foreach ($entry in $urls) {
+    $url = $entry.Url
+
+    $res = Invoke-WebRequest -Uri $url -ContentType "application/json" -UseBasicParsing | ConvertFrom-Json
+
+    if ($res.retcode -eq 0) {
+        Write-Output "Signal Url found!"
+        Set-Clipboard -Value $url
+        Write-Output "Signal Url has been saved to clipboard."
+        return
     }
 }
 
