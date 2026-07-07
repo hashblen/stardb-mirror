@@ -75,12 +75,31 @@ function testUrl($url) {
 
 $content = Get-Content -Encoding UTF8 -Raw $tmpfile
 $splitted = $content -split "1/0/"
-$found = $splitted -match "webview_gacha"
+
+$urls = foreach ($line in $splitted) {
+  if ($line -match "webview_gacha") {
+    $url = [regex]::Match(
+      $line,
+      'https?://[^\x00-\x20\x7F-\xFF]+'
+    ).Value
+
+    if ($url -match 'timestamp=(\d+)') {
+      [PSCustomObject]@{
+        Url       = $url
+        Timestamp = [int64]$Matches[1]
+      }
+    }
+  }
+}
+
+$urls = $urls | Sort-Object Timestamp -Descending
+
+Remove-Item $tmpfile
+
 $link = $false
 $linkFound = $false
-for ($i = $found.Length - 1; $i -ge 0; $i -= 1) {
-  $t = $found[$i] -match "(https.+?game_biz=)"
-  $link = $matches[0]
+for ($i = 0; $i -lt $urls.Length; $i++) {
+  $link = $urls[$i].Url
   Write-Host "`rChecking Link $i" -NoNewline
   $testResult = testUrl $link
   if ($testResult -eq $true) {
@@ -89,8 +108,6 @@ for ($i = $found.Length - 1; $i -ge 0; $i -= 1) {
   }
   Sleep 1
 }
-
-Remove-Item $tmpfile
 
 Write-Host ""
 
