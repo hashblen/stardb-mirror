@@ -108,21 +108,37 @@ Remove-Item -Path $copy_path
 
 $cache_data_split = $cache_data -split '1/0/'
 
-for ($i = $cache_data_split.Length - 1; $i -ge 0; $i--) {
-    $line = $cache_data_split[$i]
-
+$urls = foreach ($line in $cache_data_split) {
     if ($line.StartsWith('http') -and ($line.Contains("getGachaLog") -or $line.Contains("getLdGachaLog"))) {
         $url = ($line -split "\0")[0]
+		# Sometimes it is not null terminated, keep valid prefix
+		$url = [regex]::Match(
+			$line,
+			'https?://[^\x00-\x20\x7F-\xFF]+'
+		).Value
 
-        $res = Invoke-WebRequest -Uri $url -ContentType "application/json" -UseBasicParsing | ConvertFrom-Json
-
-        if ($res.retcode -eq 0) {
-            Write-Output "Warp Url found!"
-            Set-Clipboard -Value $url
-            Write-Output "Warp Url has been saved to clipboard."
-
-            return
+        if ($url -match 'timestamp=(\d+)') {
+            [PSCustomObject]@{
+                Url       = $url
+                Timestamp = [int64]$Matches[1]
+            }
         }
+    }
+}
+
+# Sort by newest timestamp first
+$urls = $urls | Sort-Object Timestamp -Descending
+
+foreach ($entry in $urls) {
+    $url = $entry.Url
+
+    $res = Invoke-WebRequest -Uri $url -ContentType "application/json" -UseBasicParsing | ConvertFrom-Json
+
+    if ($res.retcode -eq 0) {
+        Write-Output "Warp Url found!"
+        Set-Clipboard -Value $url
+        Write-Output "Warp Url has been saved to clipboard."
+        return
     }
 }
 
