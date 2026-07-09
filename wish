@@ -83,10 +83,12 @@ $urls = foreach ($line in $splitted) {
       'https?://[^\x00-\x20\x7F-\xFF]+'
     ).Value
 
-    if ($url -match 'timestamp=(\d+)') {
-      [PSCustomObject]@{
-        Url       = $url
-        Timestamp = [int64]$Matches[1]
+    [PSCustomObject]@{
+      Url = ($url -split "&end_id=")[0] + "&end_id=0"
+      Timestamp = if ($url -match 'timestamp=(\d+)') {
+        [int64]$Matches[1]
+      } else {
+        0
       }
     }
   }
