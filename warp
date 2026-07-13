@@ -104,7 +104,7 @@ for ($i = 0; $i -le $cache_folders.Length; $i++) {
 
 Copy-Item -LiteralPath $cache_path -Destination $copy_path
 $cache_data = Get-Content -Encoding UTF8 -Raw $copy_path
-Remove-Item -Path $copy_path
+Remove-Item -LiteralPath $copy_path
 
 $cache_data_split = $cache_data -split '1/0/'
 
