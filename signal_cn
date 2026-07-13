@@ -95,7 +95,7 @@ for ($i = 0; $i -le $cache_folders.Length; $i++) {
 $temp_path = [IO.Path]::GetTempFileName()
 Copy-Item -LiteralPath $cache_path -Destination $temp_path -Force
 $cache_data = Get-Content -Encoding UTF8 -Raw $temp_path
-Remove-Item -Path $temp_path
+Remove-Item -LiteralPath $temp_path
 $cache_lines = $cache_data -split "1/0/"
 
 $urls = foreach ($line in $cache_lines) {
