@@ -36,7 +36,7 @@ if (-Not [System.IO.File]::Exists($path)) {
     return
 }
 
-$logs = Get-Content -Path $path
+$logs = Get-Content -LiteralPath $path
 $m = $logs -match "(?m).:/.+(GenshinImpact_Data|YuanShen_Data)"
 $m[0] -match "(.:/.+(GenshinImpact_Data|YuanShen_Data))" >$null
 
