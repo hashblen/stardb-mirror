@@ -814,7 +814,7 @@
     "hidden": true,
     "version": "1.7",
     "difficulty": "hard",
-    "gacha": false,
+    "gacha": true,
     "timegated": null,
     "missable": false,
     "impossible": false,
@@ -1115,7 +1115,7 @@
     "currency": 5,
     "hidden": false,
     "version": "2.8",
-    "gacha": false,
+    "gacha": true,
     "timegated": null,
     "missable": false,
     "impossible": false,
@@ -1160,7 +1160,7 @@
     "currency": 5,
     "hidden": false,
     "version": "3.1",
-    "gacha": false,
+    "gacha": true,
     "timegated": null,
     "missable": false,
     "impossible": false,
@@ -1175,10 +1175,10 @@
     "currency": 5,
     "hidden": false,
     "version": "3.1",
-    "gacha": false,
+    "gacha": true,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -3122,7 +3122,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -3182,7 +3182,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -7342,36 +7342,6 @@
     "arcade": false
   },
   {
-    "id": 2006001,
-    "series": 2006,
-    "series_name": "Enigma of the Labyrinth",
-    "name": "A Master's Duty",
-    "description": "Defeat the Infernal Revenant and rescue Eous.",
-    "currency": 10,
-    "hidden": true,
-    "version": "3.1",
-    "gacha": false,
-    "timegated": null,
-    "missable": false,
-    "impossible": false,
-    "arcade": false
-  },
-  {
-    "id": 2006002,
-    "series": 2006,
-    "series_name": "Enigma of the Labyrinth",
-    "name": "See ya!",
-    "description": "First successful extraction.",
-    "currency": 5,
-    "hidden": true,
-    "version": "3.1",
-    "gacha": false,
-    "timegated": null,
-    "missable": false,
-    "impossible": false,
-    "arcade": false
-  },
-  {
     "id": 2006003,
     "series": 2006,
     "series_name": "Enigma of the Labyrinth",
@@ -7383,7 +7353,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -7398,7 +7368,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -7413,7 +7383,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -7428,7 +7398,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -7443,7 +7413,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -7458,7 +7428,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -7473,7 +7443,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -7488,7 +7458,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -7503,7 +7473,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -7518,7 +7488,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -7533,7 +7503,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -7548,7 +7518,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -7563,7 +7533,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -7578,7 +7548,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
@@ -7593,52 +7563,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
-    "arcade": false
-  },
-  {
-    "id": 2006018,
-    "series": 2006,
-    "series_name": "Enigma of the Labyrinth",
-    "name": "Dullahan's Smile",
-    "description": "Successfully extracted the collectible \"Dullahan's Smile\".",
-    "currency": 5,
-    "hidden": true,
-    "version": "3.1",
-    "gacha": false,
-    "timegated": null,
-    "missable": false,
-    "impossible": false,
-    "arcade": false
-  },
-  {
-    "id": 2006019,
-    "series": 2006,
-    "series_name": "Enigma of the Labyrinth",
-    "name": "Visitor from Another Barrel",
-    "description": "Successfully extract the collectible King's Barrel.",
-    "currency": 5,
-    "hidden": true,
-    "version": "3.1",
-    "gacha": false,
-    "timegated": null,
-    "missable": false,
-    "impossible": false,
-    "arcade": false
-  },
-  {
-    "id": 2006020,
-    "series": 2006,
-    "series_name": "Enigma of the Labyrinth",
-    "name": "Golden Ice Cream",
-    "description": "Successfully extract the collectible \"Golden Ice Cream\".",
-    "currency": 5,
-    "hidden": true,
-    "version": "3.1",
-    "gacha": false,
-    "timegated": null,
-    "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
