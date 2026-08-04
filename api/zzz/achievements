@@ -3122,7 +3122,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -3182,7 +3182,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -5917,7 +5917,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": false,
+    "impossible": true,
     "arcade": false
   },
   {
