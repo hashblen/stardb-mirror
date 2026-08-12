@@ -8454,6 +8454,344 @@
     "impossible": false
   },
   {
+    "id": 81700,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Stay a While, You Are So Beautiful",
+    "description": "Pause for a moment to take in the beauty of the white birches and the Snow-Buried Palace.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81701,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Transcender of the Land of Tomorrow",
+    "description": "Collect all relics left behind by someone in the Pale Crown Palace.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81702,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Compound Effect",
+    "description": "Roll the biggest snowball.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81703,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Wedding Bell",
+    "description": "Ring the bell that no longer loops.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81704,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "For Whom It Tolls",
+    "description": "Let the unbound bell ring out once more.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81705,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Visions in the Match",
+    "description": "Bring comfort at last to the troubled one.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81706,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Limits & Demonstrations",
+    "description": "Perhaps a work is given a name only so that it may forge another type of bond.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81707,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "They Live",
+    "description": "Put on the \"Eye of Graeae\" for the first time.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81708,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Snow, Kristall, and Speed",
+    "description": "Give your old train a new lease on life.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81709,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Through the Hall of False Splendor",
+    "description": "Collect all paintings in the House of Hesperides and open the hidden treasure beyond.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81710,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "For Every Future You",
+    "description": "Even if that version of you has yet to arrive.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81711,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Because the Palace Is There",
+    "description": "Reach the highest point of the Zapolyarny Palace.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81712,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "The Last Rose of Winter",
+    "description": "...Perishing like a moth to the flame.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81714,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Colder Than a Snowman",
+    "description": "Win a \"cold endurance contest\" against a Natlan competitor.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81715,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Ya-ho!",
+    "description": "Help the Jack Frost \"Village Chief\" fend off the Volkodlak invasion.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81716,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Above the High Table",
+    "description": "But who still remembers that the \"High Table\" was built by the Domovoy...?",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81717,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "The Iceberg Sinks, Never to Rise Again",
+    "description": "Witness the end of the colossal Snegovik.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81718,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "\"The Cherry Orchard Has Been Sold\"",
+    "description": "Witness the cabin on the ice turn upside down, fall still, and finally sink.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81720,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Route Successfully Planned",
+    "description": "Use a Link Mechanism to travel 30 meters horizontally in a single ride.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81721,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Just Like Inspiration",
+    "description": "Launch a snowball that begins to fade before it lands.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81722,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "You Shall Not Pass",
+    "description": "Successfully stop a rolling snowball.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81724,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Sturdy Knees",
+    "description": "Remain sliding for 20 seconds.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81728,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "A Promise of Old",
+    "description": "Back then, the Zolnyy had no king, and everyone did as they saw fit...",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81729,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Koski, Options.",
+    "description": "Help the Natlan woman calm down her Flowfire Bird companion.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81730,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "As My Vision Freezes into Form",
+    "description": "Atop the lighthouse, approach the girl's phantom manifested as a statue.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81731,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Drunk as Charged",
+    "description": "You can always wake someone who's truly drunk.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
     "id": 82008,
     "series": 0,
     "series_name": "Wonders of the World",
@@ -9929,6 +10267,32 @@
     "currency": 5,
     "hidden": true,
     "version": "6.6",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 82310,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Hold... Hold... Now!",
+    "description": "Interrupt an Immortal Construct's attack by breaking its HP Shield while it's in the Lifeflare state.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 82311,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Winged Lion Down",
+    "description": "Knock the Chimeric Winged Lion out of the sky by destroying all Anemo Orbs while it is in the Galeforce state.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
     "impossible": false
@@ -11433,6 +11797,19 @@
     "version": "5.0",
     "comment": "Do not get hit by explosions and only dig the correct ones in Grow Up Quickly, Littl'Un.You can see which spots will explode when using the Tepetlausaur's skill.",
     "difficulty": "easy",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84584,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "The soaring black snow swan",
+    "description": "Reaching heights no snow swan has ever reached and daring to dream what no snow swan has ever dreamed.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
     "impossible": false
@@ -13865,6 +14242,110 @@
     "impossible": false
   },
   {
+    "id": 84391,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Blizzard-Roaring Overture",
+    "description": "Drive the train through the wind and snow in Snezhnaya.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84392,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Mystery Play of the Pale Star",
+    "description": "Retrieve the \"Exaiphanes Blade\" from the ice cave.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84393,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "The Howling Gale",
+    "description": "Accept your companion's invitation to join The Rokot.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84394,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Everwinter Without Mercy",
+    "description": "Complete \"Everwinter Without Mercy.\"",
+    "currency": 10,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84395,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Waltz of Love or Regret",
+    "description": "Watch the trial performance of Spirit Seeker.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84396,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Beyond the Loop",
+    "description": "Witness Mitya step into the snowstorm.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84397,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "The Three Deaths of Fate",
+    "description": "Survive the afterlife.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84398,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Wraith's Nocturne",
+    "description": "Complete \"Wraith's Nocturne.\"",
+    "currency": 10,
+    "hidden": true,
+    "version": "7.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
     "id": 84155,
     "series": 0,
     "series_name": "Wonders of the World",
@@ -15194,9 +15675,10 @@
     "description": "Obtain the power of Cryo.",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80526,
@@ -15206,9 +15688,10 @@
     "description": "Collect the entire \"Polestar Ballet Anthology\" series.",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80528,
@@ -15218,9 +15701,10 @@
     "description": "Collect the entire \"General History of Snezhnaya\" series.",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80007,
@@ -18563,9 +19047,10 @@
     "description": "Defeat a Frostnight Herra in Co-Op Mode.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86080,
@@ -18575,9 +19060,10 @@
     "description": "Defeat a Super-Heavy Landrover: Mechanized Fortress in Co-Op Mode.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86081,
@@ -18587,9 +19073,10 @@
     "description": "Defeat a Lord of the Hidden Depths: Whisperer of Nightmares in Co-Op Mode.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86082,
@@ -18599,9 +19086,10 @@
     "description": "Defeat The Doctor in Co-Op Mode.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86083,
@@ -18611,9 +19099,10 @@
     "description": "Defeat a Radiant Moongecko in Co-Op Mode.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86084,
@@ -18623,9 +19112,10 @@
     "description": "Defeat the Watcher: Fallen Vigil in Co-Op Mode.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86085,
@@ -18635,9 +19125,10 @@
     "description": "Defeat Il Dottore in Co-Op Mode.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86086,
@@ -18647,9 +19138,10 @@
     "description": "Defeat an Immortal Construct in Co-Op Mode.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86087,
@@ -18659,9 +19151,10 @@
     "description": "Defeat a Chimeric Winged Lion in Co-Op Mode.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80056,
@@ -25904,9 +26397,10 @@
     "description": "Light up the maps of Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak in the Snezhnaya region.",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80505,
@@ -25916,9 +26410,10 @@
     "description": "Unlock all Teleport Waypoints in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak in the Snezhnaya region.",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80506,
@@ -25928,9 +26423,10 @@
     "description": "Unlock all Shrines of Depths in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak in the Snezhnaya region.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80507,
@@ -25940,9 +26436,10 @@
     "description": "Upgrade the Statues of The Seven in Snezhnaya to their maximum level.",
     "currency": 20,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80508,
@@ -25952,9 +26449,10 @@
     "description": "Unlock all Shadow Realm treasure vaults in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak in the Snezhnaya region.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80509,
@@ -25964,9 +26462,10 @@
     "description": "Follow 3 Seelies in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak to their Seelie Courts.",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80510,
@@ -25976,9 +26475,10 @@
     "description": "Follow 5 Seelies in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak to their Seelie Courts.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80511,
@@ -25988,9 +26488,10 @@
     "description": "Follow 10 Seelies in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak to their Seelie Courts.",
     "currency": 20,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80512,
@@ -26000,9 +26501,10 @@
     "description": "Open 65 chests in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80513,
@@ -26012,9 +26514,10 @@
     "description": "Open 130 chests in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80514,
@@ -26024,9 +26527,10 @@
     "description": "Open 260 chests in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.",
     "currency": 20,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80515,
@@ -26036,9 +26540,10 @@
     "description": "Complete 6 Open World Time Trial Challenges in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80516,
@@ -26048,9 +26553,10 @@
     "description": "Complete 12 Open World Time Trial Challenges in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80517,
@@ -26060,9 +26566,10 @@
     "description": "Complete 24 Open World Time Trial Challenges in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.",
     "currency": 20,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80518,
@@ -26072,9 +26579,10 @@
     "description": "Complete \"Hesperides of Love and Hate.\"",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80519,
@@ -26084,9 +26592,10 @@
     "description": "Complete \"In the Dwelling of Life.\"",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80520,
@@ -26096,9 +26605,10 @@
     "description": "Stop the \"Primordial Human\" from turning the world into a courtyard untouched by love or sorrow.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80521,
@@ -26108,9 +26618,10 @@
     "description": "Reach maximum Construction Level at the \"Meeting Point: Tidesong Cavern.\"",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80522,
@@ -26120,9 +26631,10 @@
     "description": "Reach maximum Construction Level at the \"Meeting Point: Huntsman's Cabin.\"",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80523,
@@ -26132,9 +26644,10 @@
     "description": "Reach maximum Construction Level at the \"Meeting Point: The Korolevskiy Theater.\"",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 80529,
@@ -26144,9 +26657,10 @@
     "description": "Complete the restoration of Rankova Zorya.",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86059,
@@ -26156,9 +26670,10 @@
     "description": "Clear a large Shadow Realm in Snezhnaya.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86062,
@@ -26168,9 +26683,10 @@
     "description": "Complete an Edge of Survival challenge.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86063,
@@ -26180,9 +26696,10 @@
     "description": "Raise your Shadow Realm Analysis Level to maximum.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86066,
@@ -26192,9 +26709,10 @@
     "description": "Obtain 9 Edge of Survival Medal(s).",
     "currency": 20,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86067,
@@ -26204,9 +26722,10 @@
     "description": "Install 1 accessory on 1 firearm.",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86068,
@@ -26216,9 +26735,10 @@
     "description": "Install 2 accessories on 1 firearm.",
     "currency": 10,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86069,
@@ -26228,9 +26748,10 @@
     "description": "Install 4 accessories on 1 firearm.",
     "currency": 20,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86071,
@@ -26240,9 +26761,10 @@
     "description": "Install 4 accessories each on \"Shatanaya's Frostsilver,\" \"Balsag's Sunwheel,\" and \"Ashamez's Thunder.\"",
     "currency": 20,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86072,
@@ -26252,9 +26774,10 @@
     "description": "Hit enemy weak points 5 times in a row within 30 seconds.",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86073,
@@ -26264,9 +26787,10 @@
     "description": "Trigger 5 elemental reactions with the Grenade Launcher within 30 seconds.",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86074,
@@ -26276,9 +26800,10 @@
     "description": "Defeat a total of 20 enemies while sliding.",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86075,
@@ -26288,9 +26813,10 @@
     "description": "Obtain the Assault Rifle \"Shatanaya's Frostsilver.\"",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86076,
@@ -26300,9 +26826,10 @@
     "description": "Obtain the Grenade Launcher \"Balsag's Sunwheel.\"",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86077,
@@ -26312,9 +26839,10 @@
     "description": "Obtain the Assault Rifle \"Ashamez's Thunder.\"",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86078,
@@ -26324,8 +26852,9 @@
     "description": "Obtain a Frag Crystal.",
     "currency": 5,
     "hidden": false,
+    "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   }
 ]
