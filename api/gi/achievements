@@ -26439,7 +26439,7 @@
     "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": false
+    "impossible": true
   },
   {
     "id": 80508,
@@ -26699,7 +26699,7 @@
     "version": "7.0",
     "gacha": false,
     "missable": false,
-    "impossible": false
+    "impossible": true
   },
   {
     "id": 86066,
