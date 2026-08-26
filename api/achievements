@@ -3248,10 +3248,11 @@
     "description": "Start with a modest goal\\n※ A person in extreme rage can spend 8.8 billion credits in a single day",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035502,
@@ -3261,10 +3262,11 @@
     "description": "If you accidentally cut out of reality in the wrong place...\\n※ Fall into the footage review room, a room you can't leave until you've finished editing every last clip",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035503,
@@ -3274,10 +3276,11 @@
     "description": "The ultimate last-ditch comeback!\\n※ Robin has accepted the challenge, and her opponents will be Ratite's 20 billion fans",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035504,
@@ -3287,10 +3290,11 @@
     "description": "Either everybody wins, or nobody does\\n※ You won the challenge and somehow bought an astronomically priced insurance policy for the Astral Express",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035505,
@@ -3300,10 +3304,11 @@
     "description": "Astral Express, all aboard!\\n※ Warp to Astropolis",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035506,
@@ -3313,10 +3318,11 @@
     "description": "No matter where you go, never stop chasing that top headline!\\n※ Establish a branch of Furbobo Weekly in Astropolis",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035507,
@@ -3326,10 +3332,11 @@
     "description": "You should all be grateful the acting navigator doesn't roll dice\\n※ Show everyone Asat Pramad's Die, then mercifully put it away",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035508,
@@ -3339,10 +3346,11 @@
     "description": "Amber eyes cast down, the world in canvas reborn\\n※ After a millennium, Planarcadia is sealed away once more",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035509,
@@ -3352,10 +3360,11 @@
     "description": "Just who exactly ARE you!?\\n※ I was hoping to blend in as a normal person... but fine, I'll come clean",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4070101,
@@ -8706,10 +8715,11 @@
     "description": "In combat against the \"Lighthouse,\" dispel its \"Smite Evil\" state via attacks",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075502,
@@ -8719,10 +8729,11 @@
     "description": "In a single combat, use ally character Robin • Summeretto's Summer Songbirds to deal the final hit to \"Harmonious Choir\" The Great Septimus",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075503,
@@ -8732,10 +8743,11 @@
     "description": "In a single combat, Robin • Summeretto's Vibes reach the maximum limit",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075504,
@@ -8745,10 +8757,11 @@
     "description": "In a single combat, Aventurine • Waveflair uses \"All In! To Summer's Blaze\" while Fervor is at max",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075505,
@@ -8758,10 +8771,11 @@
     "description": "In a single combat, Aventurine • Waveflair uses \"Cheers! To Summer's Blaze\" or \"All In! To Summer's Blaze\" to deal the final hit to \"Dreamjolt Troupe's Bubble Hound\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4020201,
@@ -25068,10 +25082,11 @@
     "description": "Witness an \"unconventional\" beachside sales livestream on the shores of Astropolis",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055502,
@@ -25081,10 +25096,11 @@
     "description": "Reunite with four old friends in Astropolis\\n※ Velite, Mingxi, Tamila, Popott... Do you still remember them?",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055503,
@@ -25094,10 +25110,11 @@
     "description": "Chat with Owlbert and Carmella",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055504,
@@ -25107,10 +25124,11 @@
     "description": "If you had the chance to become a superstar, how much would you be willing to sacrifice?\\n※ Witness the birth of a rising screen talent",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055505,
@@ -25120,10 +25138,11 @@
     "description": "Work, die, then work some more\\n※ Witness the love-hate saga between Skott and an old friend",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055506,
@@ -25133,10 +25152,11 @@
     "description": "Clay may shape the idol, yet falsehood forges justice\\n※ Unravel the mystery behind Bob XV's disappearance",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055507,
@@ -25146,10 +25166,11 @@
     "description": "Let the ghost and detective's story unfold naturally",
     "currency": 5,
     "hidden": true,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055508,
@@ -25159,10 +25180,11 @@
     "description": "Nominate King Heartthrob as the next Tousled Detective",
     "currency": 5,
     "hidden": true,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055509,
@@ -25172,10 +25194,11 @@
     "description": "Take revenge on the traitor ghosts and split their world into three ways",
     "currency": 5,
     "hidden": true,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055510,
@@ -25185,10 +25208,11 @@
     "description": "Smash any sandcastle",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055511,
@@ -25198,10 +25222,11 @@
     "description": "Read any \"Character Name Card\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055512,
@@ -25211,10 +25236,11 @@
     "description": "See? Owlbert never bluffs! Haha, ha... Anyway, the tour's over and done with, so... can I have my money back now? ...No refund system?",
     "currency": 10,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055513,
@@ -25224,10 +25250,11 @@
     "description": "Acquire any Astropolis specialty souvenir",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055514,
@@ -25237,10 +25264,11 @@
     "description": "Win the Cosmic Cup championship in \"Overdrive: Whirlwind Grand Prix\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055515,
@@ -25250,10 +25278,11 @@
     "description": "Conduct R&D action 9 time(s) in \"Overdrive: Whirlwind Grand Prix\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055516,
@@ -25263,10 +25292,11 @@
     "description": "Knock away a total of 20 opponent vehicles in \"Overdrive: Whirlwind Grand Prix\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055517,
@@ -25276,10 +25306,11 @@
     "description": "Break the track record in any Lap Time Challenge in \"Overdrive: Whirlwind Grand Prix\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4040201,
@@ -30696,10 +30727,11 @@
     "description": "Open Astropolis treasures 70 times",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045502,
@@ -30709,10 +30741,11 @@
     "description": "You witnessed the footprints of yourself, now treasured and preserved within the spacetime continuum.",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045503,
@@ -30722,10 +30755,11 @@
     "description": "You entered the imagenesis book replicated by Mr. Arita and retrieved the hidden pages.",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045504,
@@ -30735,10 +30769,11 @@
     "description": "Complete the \"Jump Time\" at Astropolis",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045505,
@@ -30748,10 +30783,11 @@
     "description": "Collect all Music Notes during \"Jump Time\" at Astropolis",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045506,
@@ -30761,10 +30797,11 @@
     "description": "Play a Bizarre Melody to find the mysterious creature hiding in the Astropolis Central District",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045507,
@@ -30774,10 +30811,11 @@
     "description": "Play a Bizarre Melody to find the mysterious creature hiding in the Lodestar Tower",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045508,
@@ -30787,10 +30825,11 @@
     "description": "Collect 180 Golden Wispae in Planarcadia and Astropolis combined",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045509,
@@ -30800,10 +30839,11 @@
     "description": "Kick a beach volleyball into the ocean and you can never retrieve it again",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045510,
@@ -30813,10 +30853,11 @@
     "description": "Hit 6 or more Sprint Balls consecutively in \"Interplanar Jump!\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045511,
@@ -30826,10 +30867,11 @@
     "description": "Use the leveled-up Sprint ability to knock away monsters in \"Interplanar Jump!\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045512,
@@ -30839,10 +30881,11 @@
     "description": "Use the Sprint ability to smash fragile modules in \"Interplanar Jump!\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045513,
@@ -30852,10 +30895,11 @@
     "description": "Take the shuttle ride for the first time from Astropolis to Lodestar Tower",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045514,
@@ -30865,10 +30909,11 @@
     "description": "Access the mysterious backrooms through the secret passage at the ring-shaped workstation",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045515,
@@ -30878,10 +30923,11 @@
     "description": "Witness a trapped soul's end in the backrooms",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045516,
@@ -30891,10 +30937,11 @@
     "description": "In \"Interplanar Jump!\", bounce back and forth between two Sprint Balls for 6 second(s) and above",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045517,
@@ -30904,10 +30951,11 @@
     "description": "In \"Interplanar Jump!\", use Sprint to knock back 5 or more Hedgehogs and Floatspirits, while not landing during the process",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045518,
@@ -30917,10 +30965,11 @@
     "description": "Complete the Sprint Training in \"Interplanar Jump!\" without using tap/press/click and hold to Sprint",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045519,
@@ -30930,10 +30979,11 @@
     "description": "In \"Interplanar Jump!\", use the Sprint ability to Interrupt a Sprint Ball's sprint and return to the original Sprint Ball",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045520,
@@ -30943,10 +30993,11 @@
     "description": "Take first place in the Shadow Sprint of \"Interplanar Jump!\" in Astropolis",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045521,
@@ -30956,9 +31007,10 @@
     "description": "Complete the \"Astropolis Aerobatics Grand Prix\" in \"Interplanar Jump!\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.5",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   }
 ]
