@@ -3246,7 +3246,7 @@
     "series_name": "The Rail Unto the Stars",
     "name": "Richest Person in Astropolis",
     "description": "Start with a modest goal\\n※ A person in extreme rage can spend 8.8 billion credits in a single day",
-    "currency": 5,
+    "currency": 10,
     "hidden": false,
     "version": "4.5",
     "gacha": false,
@@ -3260,7 +3260,7 @@
     "series_name": "The Rail Unto the Stars",
     "name": "The Backrooms",
     "description": "If you accidentally cut out of reality in the wrong place...\\n※ Fall into the footage review room, a room you can't leave until you've finished editing every last clip",
-    "currency": 5,
+    "currency": 10,
     "hidden": false,
     "version": "4.5",
     "gacha": false,
@@ -3274,7 +3274,7 @@
     "series_name": "The Rail Unto the Stars",
     "name": "1 vs. 2 Billion",
     "description": "The ultimate last-ditch comeback!\\n※ Robin has accepted the challenge, and her opponents will be Ratite's 20 billion fans",
-    "currency": 5,
+    "currency": 10,
     "hidden": false,
     "version": "4.5",
     "gacha": false,
@@ -3288,7 +3288,7 @@
     "series_name": "The Rail Unto the Stars",
     "name": "The Long Vacation",
     "description": "Either everybody wins, or nobody does\\n※ You won the challenge and somehow bought an astronomically priced insurance policy for the Astral Express",
-    "currency": 5,
+    "currency": 10,
     "hidden": false,
     "version": "4.5",
     "gacha": false,
@@ -3302,7 +3302,7 @@
     "series_name": "The Rail Unto the Stars",
     "name": "Leap Across a Thousand Stars",
     "description": "Astral Express, all aboard!\\n※ Warp to Astropolis",
-    "currency": 5,
+    "currency": 10,
     "hidden": false,
     "version": "4.5",
     "gacha": false,
@@ -3316,7 +3316,7 @@
     "series_name": "The Rail Unto the Stars",
     "name": "A Brand New Start!",
     "description": "No matter where you go, never stop chasing that top headline!\\n※ Establish a branch of Furbobo Weekly in Astropolis",
-    "currency": 5,
+    "currency": 10,
     "hidden": false,
     "version": "4.5",
     "gacha": false,
@@ -3330,7 +3330,7 @@
     "series_name": "The Rail Unto the Stars",
     "name": "Trailblazer Doesn't Roll the Dice",
     "description": "You should all be grateful the acting navigator doesn't roll dice\\n※ Show everyone Asat Pramad's Die, then mercifully put it away",
-    "currency": 5,
+    "currency": 10,
     "hidden": false,
     "version": "4.5",
     "gacha": false,
@@ -3344,7 +3344,7 @@
     "series_name": "The Rail Unto the Stars",
     "name": "Second Encanvas",
     "description": "Amber eyes cast down, the world in canvas reborn\\n※ After a millennium, Planarcadia is sealed away once more",
-    "currency": 5,
+    "currency": 10,
     "hidden": false,
     "version": "4.5",
     "gacha": false,
@@ -3358,7 +3358,7 @@
     "series_name": "The Rail Unto the Stars",
     "name": "Aha! Aha?",
     "description": "Just who exactly ARE you!?\\n※ I was hoping to blend in as a normal person... but fine, I'll come clean",
-    "currency": 5,
+    "currency": 10,
     "hidden": false,
     "version": "4.5",
     "gacha": false,
@@ -15246,8 +15246,8 @@
     "impossible": false,
     "set": 2,
     "related": [
-      4052331,
-      4052330
+      4052330,
+      4052331
     ]
   },
   {
@@ -15407,8 +15407,8 @@
     "impossible": false,
     "set": 5,
     "related": [
-      4052341,
-      4052342
+      4052342,
+      4052341
     ]
   },
   {
@@ -15430,8 +15430,8 @@
     "impossible": false,
     "set": 5,
     "related": [
-      4052340,
-      4052342
+      4052342,
+      4052340
     ]
   },
   {
