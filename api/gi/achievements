@@ -7600,7 +7600,7 @@
     "gacha": false,
     "timegated": "Yes, Minimum 12 months (Max 1 Lunar Arcanum per month)",
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 81622,
@@ -7614,7 +7614,7 @@
     "gacha": false,
     "timegated": "Yes, Minimum 22 months (Max 1 Lunar Arcanum per month)",
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 81623,
