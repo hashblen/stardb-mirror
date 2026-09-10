@@ -1791,6 +1791,12 @@
     "timegated": null,
     "missable": false,
     "impossible": false,
+    "set": 8,
+    "related": [
+      1005037,
+      1005038,
+      1005039
+    ],
     "arcade": false
   },
   {
@@ -1806,6 +1812,12 @@
     "timegated": null,
     "missable": false,
     "impossible": false,
+    "set": 8,
+    "related": [
+      1005038,
+      1005039,
+      1005036
+    ],
     "arcade": false
   },
   {
@@ -1821,6 +1833,12 @@
     "timegated": null,
     "missable": false,
     "impossible": false,
+    "set": 8,
+    "related": [
+      1005037,
+      1005039,
+      1005036
+    ],
     "arcade": false
   },
   {
@@ -1836,6 +1854,12 @@
     "timegated": null,
     "missable": false,
     "impossible": false,
+    "set": 8,
+    "related": [
+      1005037,
+      1005038,
+      1005036
+    ],
     "arcade": false
   },
   {
