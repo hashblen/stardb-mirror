@@ -8792,6 +8792,18 @@
     "impossible": false
   },
   {
+    "id": 81732,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Winter Night's Letter",
+    "description": "Complete \"Secret Tsarist Assignment: Part I.\"",
+    "currency": 5,
+    "hidden": false,
+    "gacha": false,
+    "missable": false,
+    "impossible": true
+  },
+  {
     "id": 82008,
     "series": 0,
     "series_name": "Wonders of the World",
