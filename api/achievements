@@ -3374,10 +3374,11 @@
     "description": "An angler can catch everything but fish, huh?\\n※ Devise a battle plan with Nihilux",
     "currency": 10,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035602,
@@ -3387,10 +3388,11 @@
     "description": "There are things in this world less human than beasts\\n※ Uncover the dark secrets of the Life Sciences Institute",
     "currency": 10,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035603,
@@ -3400,10 +3402,11 @@
     "description": "Evil begets its own ruin. That is the way of things\\n※ Fifteen years later, the Herald of Death case is officially closed",
     "currency": 10,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035604,
@@ -3413,10 +3416,11 @@
     "description": "Beneath the tree where Phantasmoon shines, the end finds its beginning\\n※ Ride the radiance of pearls and return to Planarcadia",
     "currency": 10,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4035605,
@@ -3426,10 +3430,11 @@
     "description": "May fortune favor you, Supplicants of ages yet to come\\n※ Recreate the myth of the eight Actors, and relaunch the Phantasmoon Games",
     "currency": 10,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4070101,
@@ -8850,10 +8855,11 @@
     "description": "During the battle against Blood of the Fallen God: Yabuli, after a character enters the \"Phantom Illusion\" state, defeat an enemy unit using an ability",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075602,
@@ -8863,10 +8869,11 @@
     "description": "During the battle against Blood of the Fallen God: Yabuli, no characters enter the \"Phantom Illusion\" state",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075603,
@@ -8876,10 +8883,11 @@
     "description": "Win a regular combat while all allies are affected by Crowd Control debuffs",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075604,
@@ -8889,10 +8897,11 @@
     "description": "Win a regular combat without ever entering any ally target's turn",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075605,
@@ -8902,10 +8911,11 @@
     "description": "In a single action during a regular combat, deal at least 5 different kinds of DMG in addition to the ability DMG dealt by this action",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075606,
@@ -8915,10 +8925,11 @@
     "description": "In a single action during a regular combat, deal at least 5 different Types of DMG in addition to the ability DMG dealt by this action",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075607,
@@ -8928,10 +8939,11 @@
     "description": "In a single turn during a regular combat, recovers the allies' Skill Points to the maximum after they have been reduced to 0",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075608,
@@ -8941,10 +8953,11 @@
     "description": "In a single turn during a regular combat, regenerate any one ally's Energy to the maximum after it has been reduced to 0",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075609,
@@ -8954,10 +8967,11 @@
     "description": "In a single turn during a regular combat, restore any one ally's HP to the maximum after it has been reduced to 0",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075610,
@@ -8967,10 +8981,11 @@
     "description": "Within a single battle, Pearl uses Brushstroke: Imagenate the Starry Night and Brushstroke: Render the Great Wave",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075611,
@@ -8980,10 +8995,11 @@
     "description": "March 7th and Pearl respectively use \"Master, It's Tea Time!\" and \"Appraise Soul's Ground\" on each other",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4075612,
@@ -8993,10 +9009,11 @@
     "description": "Pearl uses Brushstroke: Imagenate the Starry Night or Brushstroke: Render the Great Wave to defeat a Canvas Peacock that is in the Color state",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4020201,
@@ -25556,10 +25573,11 @@
     "description": "Clear the 2nd Star Rating Assessment in \"Love, Ghosts & Robots\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055602,
@@ -25569,10 +25587,11 @@
     "description": "In \"Love, Ghosts & Robots,\" simultaneously upgrade 2 stats of the mechatron to S-rank for the first time",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055603,
@@ -25582,10 +25601,11 @@
     "description": "Clear all Star Rating Assessments in \"Love, Ghosts & Robots\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055604,
@@ -25595,10 +25615,11 @@
     "description": "In \"Love, Ghosts & Robots,\" change the exhibition mechatron once",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055605,
@@ -25608,10 +25629,11 @@
     "description": "Help the alienated soul find their way home",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055606,
@@ -25621,10 +25643,11 @@
     "description": "Investigate the mysterious Life Monument",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4055607,
@@ -25634,10 +25657,11 @@
     "description": "Find the wispae long forgotten in the depths of the Life Sciences Institute",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4040201,
@@ -31348,10 +31372,11 @@
     "description": "Complete the \"Jump Time\" at Life Sciences Institute",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045602,
@@ -31361,10 +31386,11 @@
     "description": "During the \"Jump Time\" at the Life Sciences Institute, successfully jump 30 consecutive times to the rhythm",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045603,
@@ -31374,10 +31400,11 @@
     "description": "Play the Bizarre Melody and find the mysterious creature hiding in the Life Sciences Institute",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045604,
@@ -31387,10 +31414,11 @@
     "description": "Shoot down all the balloons in the Life Sciences Institute's \"Interplanar Jump!\"",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 4045605,
@@ -31400,9 +31428,10 @@
     "description": "In the \"Interplanar Jump!\" in the Life Sciences Institute corridor, choose the correct teleporter every time",
     "currency": 5,
     "hidden": false,
+    "version": "4.6",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true
+    "impossible": false
   }
 ]
