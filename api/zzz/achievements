@@ -1219,10 +1219,11 @@
     "description": "Reach Trust Lv. 4 with Phoenix.",
     "currency": 5,
     "hidden": false,
+    "version": "3.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -1233,6 +1234,7 @@
     "description": "Reach Trust Lv. 4 with Severian.",
     "currency": 5,
     "hidden": false,
+    "version": "3.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
@@ -1888,6 +1890,21 @@
       1005038,
       1005036
     ],
+    "arcade": false
+  },
+  {
+    "id": 1005040,
+    "series": 1005,
+    "series_name": "Phaethon's Story",
+    "name": "The Night's Song Carries Away the Day",
+    "description": "Complete \"Journey to the Sky\" in Phaethon's Story.",
+    "currency": 20,
+    "hidden": true,
+    "version": "3.3",
+    "gacha": false,
+    "timegated": null,
+    "missable": false,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -5755,10 +5772,11 @@
     "description": "When fighting {0} in the air, knock it down using Defensive Assist and Chain Parry.",
     "currency": 5,
     "hidden": false,
+    "version": "3.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -7985,10 +8003,11 @@
     "description": "While being pursued by The Hound - Ulidim, defeat the fleeing Mutant Formicarrier.",
     "currency": 5,
     "hidden": false,
+    "version": "3.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -7999,10 +8018,11 @@
     "description": "Repel The Hound - Ulidim while wearing the \"Don't Hound Me\" accessory.",
     "currency": 5,
     "hidden": false,
+    "version": "3.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -8013,10 +8033,11 @@
     "description": "Craft a Valuable for the first time using 3 Mimic Substances.",
     "currency": 10,
     "hidden": false,
+    "version": "3.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -8027,10 +8048,11 @@
     "description": "Obtain Valuable: Quirky Carrot Gold Ornament.",
     "currency": 5,
     "hidden": false,
+    "version": "3.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -9573,10 +9595,11 @@
     "description": "Reach 100% exploration progress for Quietude Isle.",
     "currency": 5,
     "hidden": false,
+    "version": "3.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -9587,10 +9610,11 @@
     "description": "Pilot the Conqueror Mech in combat against the Conqueror.",
     "currency": 5,
     "hidden": false,
+    "version": "3.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -9601,10 +9625,11 @@
     "description": "In Quietude Isle, use the overhead zipline to cross large transport racks.",
     "currency": 5,
     "hidden": false,
+    "version": "3.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -9615,10 +9640,11 @@
     "description": "Discover the hidden area in Quietude Isle.",
     "currency": 5,
     "hidden": false,
+    "version": "3.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -9629,10 +9655,11 @@
     "description": "Reach 100% exploration progress for Airspace Control Tower.",
     "currency": 5,
     "hidden": false,
+    "version": "3.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -9643,10 +9670,11 @@
     "description": "Discover all hidden areas in the Airspace Control Tower.",
     "currency": 5,
     "hidden": false,
+    "version": "3.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -10686,10 +10714,11 @@
     "description": "View guides for 20 Agents.",
     "currency": 5,
     "hidden": false,
+    "version": "3.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
@@ -13298,6 +13327,7 @@
     "description": "Complete all of Crowe and Hobble's commissions in \"Trails of the Hobbling Crow.\"",
     "currency": 5,
     "hidden": false,
+    "version": "3.3",
     "gacha": false,
     "timegated": null,
     "missable": false,
