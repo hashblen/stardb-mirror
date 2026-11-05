@@ -8805,6 +8805,214 @@
     "impossible": false
   },
   {
+    "id": 81733,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Las Palabras Andantes",
+    "description": "Record tales of times gone by from eastern Snezhnaya in your Field Notes.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81734,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "A Crack Rings Through the Kristall",
+    "description": "Record the full story of the events in Novokitezhgrad in your Field Notes.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81735,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Gold Miner",
+    "description": "Destroy a rock surrounding a Kristall deposit for the first time.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81736,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Putting Holes in the Planet",
+    "description": "Destroy a truly staggering number of rocks surrounding Kristall deposits.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81738,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Mjollnir?",
+    "description": "Hurl a Prime Ice Construct: Pickaxe to smash a distant rock.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81739,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Who Needs a Magic Wand...?",
+    "description": "Take control of a Rapid-Fire Autocannon for the first time.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81740,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Two Heroes of the Old City",
+    "description": "Defeat the two corrupted guardians of Old Kitezhgrad.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81741,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "A Faded Shadow in the Ice",
+    "description": "Perhaps the way everything was reshaped had a prototype all along...",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81742,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "The Legendary Commute",
+    "description": "Make your way through downtown Novokitezhgrad at breakneck speed.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81743,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Tales of Pearls Beneath the Dust",
+    "description": "Sell every consignment item unearthed during your excavations...",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81744,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "No Secrets Left in Shadow",
+    "description": "Discover and illuminate every secret message left behind by the ancient fae.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81745,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Where Kristall Runs Like Water",
+    "description": "Reach Novokitezhgrad, the metropolis of fae and Kristall.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81746,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "So the Waters Were Healed Unto This Day",
+    "description": "Restore the underground water supply beneath Novokitezhgrad.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81747,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Virtua Cop...?",
+    "description": "Escape the Shadow Realm aboard a minecart.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81749,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "As Calamity Melts Away Like Black Snow",
+    "description": "Purge the Blightkristall from both rifts across the icefield.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 81753,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "The Hall Where Death Is Mirrored",
+    "description": "Reach the depths beneath the fallen bones of the great beast, within the wing-shaped peaks.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
     "id": 81755,
     "series": 0,
     "series_name": "Wonders of the World",
@@ -8812,9 +9020,23 @@
     "description": "Complete \"Secret Tsarist Assignment: Part II.\"",
     "currency": 5,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
+  },
+  {
+    "id": 81756,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "When the Iron Tree Blooms",
+    "description": "Help the crystal tree grow in a place where sunlight never reaches.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
   },
   {
     "id": 82008,
@@ -10331,6 +10553,19 @@
     "currency": 5,
     "hidden": true,
     "version": "7.1",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 82313,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "While the Drink Is Still Warm...",
+    "description": "Defeat the Wavebinder while it is in its Valiant state...",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
     "impossible": false
@@ -14488,6 +14723,123 @@
     "impossible": false
   },
   {
+    "id": 84407,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Dies Irae",
+    "description": "Investigate the disturbances caused by the Nail of Retribution",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84408,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "The Reason for Being Here",
+    "description": "Obtain the necessary information from the \"Variable-Response Query Terminal.\"",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84409,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Hour of Ruin",
+    "description": "Complete the \"Hour of Ruin.\"",
+    "currency": 10,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84410,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "The Breeze That Blows Toward Freedom",
+    "description": "Complete the \"Trial of Usurpation\" on the subject of \"Freedom.\"",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84411,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "The Will That Sustains Eternity",
+    "description": "Complete the \"Trial of Usurpation\" on the subject of \"Eternity.\"",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84412,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "\"Wisdom\" Has No Answer",
+    "description": "Complete the \"Trial of Usurpation\" on the subject of \"Wisdom.\"",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84413,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "A Treasure Forged by Victory",
+    "description": "Complete the \"Trial of Usurpation\" on the subject of \"War.\"",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84414,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "A Curse Not Born of Love",
+    "description": "Complete the \"Trial of Usurpation\" on the subject of \"Love.\"",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 84415,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "A Yesterday Sent From Beyond",
+    "description": "Complete \"A Yesterday Sent From Beyond.\"",
+    "currency": 10,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
     "id": 84155,
     "series": 0,
     "series_name": "Wonders of the World",
@@ -14496,6 +14848,58 @@
     "currency": 5,
     "hidden": true,
     "version": "6.0",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 86115,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "The Pied Piper",
+    "description": "Ya-ho. Ya-ho. Ya-ho. Ya-ho...",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 86116,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "Mimir's Well",
+    "description": "Take whatever you desire, so long as you can pay the price...",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 86117,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "The King of Roshambo",
+    "description": "Claim the final victory in a game of rock-paper-scissors.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
+    "gacha": false,
+    "missable": false,
+    "impossible": false
+  },
+  {
+    "id": 86118,
+    "series": 0,
+    "series_name": "Wonders of the World",
+    "name": "What Was Found, Returned",
+    "description": "Return to each person what rightfully belongs to them.",
+    "currency": 5,
+    "hidden": true,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
     "impossible": false
@@ -26812,9 +27216,10 @@
     "description": "Light up the maps of Novokitezhgrad and Wingspan Peak in Snezhnaya.",
     "currency": 5,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86093,
@@ -26824,9 +27229,10 @@
     "description": "Unlock all Teleport Waypoints in Novokitezhgrad and Wingspan Peak within the Snezhnaya region.",
     "currency": 5,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86094,
@@ -26836,9 +27242,10 @@
     "description": "Unlock all the Shrines of Depths in the following areas in Snezhnaya: Novokitezhgrad and Wingspan Peak.",
     "currency": 10,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86095,
@@ -26848,9 +27255,10 @@
     "description": "Unlock all Shadow Realm treasure vaults in Novokitezhgrad and Wingspan Peak in the Snezhnaya region.",
     "currency": 10,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86096,
@@ -26860,9 +27268,10 @@
     "description": "Follow 4 Seelie in Novokitezhgrad and Wingspan Peak to their Seelie Courts.",
     "currency": 5,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86097,
@@ -26872,9 +27281,10 @@
     "description": "Follow 9 Seelie in Novokitezhgrad and Wingspan Peak to their Seelie Courts.",
     "currency": 10,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86098,
@@ -26884,9 +27294,10 @@
     "description": "Follow 18 Seelie in Novokitezhgrad and Wingspan Peak to their Seelie Courts.",
     "currency": 20,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86099,
@@ -26896,9 +27307,10 @@
     "description": "Open 45 chests in Novokitezhgrad and Wingspan Peak.",
     "currency": 5,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86100,
@@ -26908,9 +27320,10 @@
     "description": "Open 90 chests in Novokitezhgrad and Wingspan Peak.",
     "currency": 10,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86101,
@@ -26920,9 +27333,10 @@
     "description": "Open 180 chests in Novokitezhgrad and Wingspan Peak.",
     "currency": 20,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86102,
@@ -26932,9 +27346,10 @@
     "description": "Complete 3 Open World Time Trial Challenges in Novokitezhgrad and Wingspan Peak.",
     "currency": 5,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86103,
@@ -26944,9 +27359,10 @@
     "description": "Complete 7 Open World Time Trial Challenges in Novokitezhgrad and Wingspan Peak.",
     "currency": 10,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86104,
@@ -26956,9 +27372,10 @@
     "description": "Complete 14 Open World Time Trial Challenges in Novokitezhgrad and Wingspan Peak.",
     "currency": 20,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86105,
@@ -26968,9 +27385,10 @@
     "description": "Witness the end of Grand Duke Alvis of the Domovoy and his daughter Thrud.",
     "currency": 10,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86106,
@@ -26980,9 +27398,10 @@
     "description": "Reach maximum Construction Level at the \"Meeting Point: Teplo Oasis.\"",
     "currency": 5,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86107,
@@ -26992,9 +27411,10 @@
     "description": "Reach maximum Construction Level at the \"Meeting Point: Royal Railway Transport Bureau.\"",
     "currency": 5,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86059,
@@ -27199,9 +27619,10 @@
     "description": "Obtain the shotgun \"Sosruko's Flame.\"",
     "currency": 5,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86109,
@@ -27211,9 +27632,10 @@
     "description": "Obtain the shotgun \"Apsat's Mountain Hunt.\"",
     "currency": 5,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86110,
@@ -27223,9 +27645,10 @@
     "description": "Obtain at least 1 Edge of Survival Medal in each of \"Hammer and Anvil,\" \"Harbor Under Heavy Guard,\" and \"The Calamity-Torn Old City\" in \"Edge of Survival.\"",
     "currency": 5,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86111,
@@ -27235,9 +27658,10 @@
     "description": "Install 4 accessories on \"Sosruko's Flame.\"",
     "currency": 10,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86112,
@@ -27247,9 +27671,10 @@
     "description": "Install 4 accessories on \"Apsat's Mountain Hunt.\"",
     "currency": 10,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86113,
@@ -27259,9 +27684,10 @@
     "description": "Fire 10 consecutive shots within 15 seconds using \"Sosruko's Flame.\"",
     "currency": 5,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   },
   {
     "id": 86114,
@@ -27271,8 +27697,9 @@
     "description": "Hit an enemy over 30 meters away using a Heavy Slug from \"Apsat's Mountain Hunt.\"",
     "currency": 5,
     "hidden": false,
+    "version": "7.2",
     "gacha": false,
     "missable": false,
-    "impossible": true
+    "impossible": false
   }
 ]
