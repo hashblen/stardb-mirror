@@ -13333,7 +13333,7 @@
     "gacha": false,
     "timegated": null,
     "missable": false,
-    "impossible": true,
+    "impossible": false,
     "arcade": false
   },
   {
