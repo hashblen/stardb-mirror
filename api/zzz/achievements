@@ -13326,7 +13326,7 @@
     "series": 4006,
     "series_name": "Roscaelifer",
     "name": "The City's Smartest... One of Them",
-    "description": "Complete all of Crowe and Hobble's commissions in \"Trails of the Hobbling Crow.\"",
+    "description": "Complete all of Crowe and Hobble's commissions in \"Mystery of the Misty Moon.\"",
     "currency": 5,
     "hidden": false,
     "version": "3.3",
@@ -13364,6 +13364,20 @@
     "timegated": null,
     "missable": false,
     "impossible": false,
+    "arcade": false
+  },
+  {
+    "id": 4006035,
+    "series": 4006,
+    "series_name": "Roscaelifer",
+    "name": "\"Elementary, My Dear Hobble\"",
+    "description": "Complete all of Crowe and Hobble's commissions in \"Crowfeather Archives.\"",
+    "currency": 5,
+    "hidden": false,
+    "gacha": false,
+    "timegated": null,
+    "missable": false,
+    "impossible": true,
     "arcade": false
   },
   {
